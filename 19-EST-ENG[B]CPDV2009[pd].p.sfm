@@ -5,12 +5,47 @@
 \toc2 Esther
 \toc3 Est
 \mt1 The Book of Esther
+\imt4 Editor's Note
+\imi The Book of Esther was originally written in Hebrew. Later, those Jewish synagogues which used Greek as their written language not only translated the Jewish Scriptures into Greek, but added additional material to Esther (and to Daniel). The Catholic Church accepts both the Hebrew and Greek versions of Esther as truly inspired by God.
+\ipi In some translations of Esther, the Hebrew text is presented first, then the Greek additions are grouped together at the end of the book. The text is then numbered in 16 chapters, with the Greek additions numbered from 10:4 to 16:24. However, separating out the Greek additions and grouping them at the end takes those additions out of their natural order in the narrative.
+\ipi In other versions, the Greek text is integrated with the Hebrew text, so that events are placed in their proper order within the narrative. Some of these versions keep the same numbering, so that the Book begins with 11:2 to 11:12, then chapter 12 follows, then chapters 1 and 2, and so on. Other versions number the chapters with letters as well as numbers, so that Esther begins with chapter A, then chapter B, then chapters 1 and 2, et cetera. Still other versions number the material in ten chapters, from 1 to 10, but with the integrated material from the Greek given verses numbers using numbers and letters, such as verses 1a, 1b, 1c, 1d, and verses 17, 17a, 17b ... 17x, 17y, 17z, 17aa, 17bb, etc. These numbering systems are not very useful.
+\ipi The catholic public domain version (CPDV) of the Book of Esther, as well as the corresponding edition of the Latin Vulgate, keeps the text in the usual narrative order (where the Greek text is integrated with the Hebrew text) and numbers the chapters and verses in that same order. This gives every chapter a different number than in the original numbering. Many verses retain the same verse number, even though their chapter number has changed. This new numbering system (with minor differences) is also used on the Greek version of the Book of Esther in the World English Bible.
+\ipi The revised numbering of the Book of Esther has 15 chapters and 274 verses; whereas the prior numbering (in the Latin Vulgate) had 16 chapters and 274 verses.
+\ib
+\imt6  Verse numbering compared: Clementine to CPDV
+\tr \tc1 11:2 - 11:12 \tc2 becomes 1:1 - 1:11
+\tr \tc1 12:1 - 12:6  \tc2 becomes 2:1 - 2:6
+\tr \tc1 1:1 - 1:22  \tc2 becomes 3:1 - 3:22
+\tr \tc1 2:1 - 2:23  \tc2 becomes 4:1 - 4:23
+\tr \tc1 3:1 - 3:13  \tc2 becomes 5:1 - 5:13\f + \fr \fk 5:13 \ft The last phrase of 5:13 incorporates verse 12:6b from the Clementine Latin Vulgate text by adding "even their necessities." The Latin text changes from: "et bona eorum diriperent." (end of 3:13) and "Et diripuerunt bona, vel substantias eorum." (12:6b) to: "et diriperent bona, vel substantias eorum."\f*
+\tr \tc1 13:1 - 13:7  \tc2 becomes 6:1 - 6:7
+\tr \tc1 3:14 - 3:15  \tc2 becomes 6:8 - 6:9
+\tr \tc1 4:1 - 4:9  \tc2 becomes 7:1 - 7:9
+\tr \tc1 15:2 - 15:3  \tc2 becomes 7:10 - 7:11
+\tr \tc1 4:10 - 4:11  \tc2 becomes 7:12 - 7:13
+\tr \tc1 4:12 - 4:13  \tc2 becomes  7:14\f + \fr \fk 7:14 \ft Verses 4:12 - 4:13 from the Clementine Latin Vulgate are combined as 7:14 in the CPDV.\f*
+\tr \tc1 4:14  \tc2 becomes 7:15
+\tr \tc1 15:1  \tc2 becomes 7:16\f + \fr \fk 7:16 \ft Verse 15:1 (7:16 in the CPDV) is often omitted from English versions of Esther, even though it is consistently found in the Clementine Latin Vulgate. It has been placed here, in its logical position within the narrative.\f*
+\tr \tc1 4:15 - 4:17  \tc2 becomes 7:17 - 7:19\f + \fr \fk 7:19 \ft "Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther." is found before 13:8 - 14:19 in the Clementine Latin Vulgate, but it is merely a rephrasing of verse 4:17 (i.e. 7:19): "Ivit itaque Mardochæus, et fecit omnia, quæ ei Esther præceperat."\f*
+\tr \tc1 13:8 - 13:18  \tc2 becomes 7:20 - 7:30
+\tr \tc1 14:1 - 14:19  \tc2 becomes 8:1 - 8:19
+\tr \tc1 15:4 - 15:19  \tc2 becomes 9:1 - 9:16
+\tr \tc1 5:1 - 5:2  \tc2 becomes 9:17 - 9:18\f + \fr \fk 9:17-18 \ft These two verses, 9:17 - 9:18, are from the Hebrew. They are a shorter form of the Greek text found in verses 9:1 - 9:16. Both the shorter and longer forms are retained in this edition of the Latin and in the CPDV.\f*
+\tr \tc1 5:3 - 5:14  \tc2 becomes 9:19 - 9:30
+\tr \tc1 6:1 - 6:14  \tc2 becomes 10:1 - 10:14
+\tr \tc1 7:1 - 7:10  \tc2 becomes 11:1 - 11:10
+\tr \tc1 8:1 - 8:12  \tc2 becomes 12:1 - 12:12
+\tr \tc1 16:1 - 16:24  \tc2 becomes 13:1 - 13:24
+\tr \tc1 8:13 - 8:17  \tc2 becomes 13:25 - 13:29
+\tr \tc1 9:1 - 9:32  \tc2 becomes 14:1 - 14:32
+\tr \tc1 10:1 - 10:13  \tc2 becomes 15:1 - 15:13
+\tr \tc1 11:1  \tc2 becomes 15:14
 \c 1
 \cl Esther 1
 \p
 \v 1 In the second year of the reign of Artaxerxes the great, on the first day of the month of Nisan, Mordecai the son of Jair, the son of Shimei, the son of Kish, of the tribe of Benjamin,
 \p
-\v 2 a Jewish man who lived in the city of Susa, a great gentleman, and among the first ones of the king’s court, saw a dream.
+\v 2 a Jewish man who lived in the city of Susa, a great gentleman, and among the first ones of the king’s court, saw a dream.\f + \fr 1:2 \ft The phrase “vir magnus” is usually translated as “a great man,” but in Latin the word vir is different that the word for man. Vir is derived from a word meaning virtuous or strong, so it carries within it a certain complementary connotation, much like the word “gentleman.”\f*
 \p
 \v 3 Now he was one of a number of captives, whom Nebuchadnezzar king of Babylon had carried away from Jerusalem with Jeconiah king of Judah.
 \p
@@ -18,9 +53,9 @@
 \p
 \v 5 And behold, there were two great dragons making preparations against one another for battle.
 \p
-\v 6 And at their cry all peoples rushed forth to fight against the nation of the just.
+\v 6 And at their cry all peoples rushed forth to fight against the nation of the just.\f + \fr 1:6 \ft Or, against a people of justice; or, against a just people.\f*
 \p
-\v 7 And that was a day of darkness and division, of tribulation and anguish, and there was an unnatural dread over the earth.
+\v 7 And that was a day of darkness and division, of tribulation and anguish, and there was an unnatural dread over the earth.\f + \fr 1:7 \ft Perhaps this is a reference to the three days of darkness.\f*
 \p
 \v 8 And the nation of the just was disturbed, fearing their own evils, and was prepared for death.
 \p
@@ -32,9 +67,9 @@
 \c 2
 \cl Esther 2
 \p
-\v 1 Now he was staying at that time in the king’s court with Bagatha and Thara the king’s eunuchs, who were porters of the palace.
+\v 1 Now he was staying at that time in the king’s court with Bagatha and Thara the king’s eunuchs, who were porters of the palace.\f + \fr 2:1 \ft Chapters 1 and 2 are found only in the Greek text. The Hebrew later mentions this same event. The names of these two eunuchs here have been reconciled with their names from the Hebrew version of the text. The Latin version of their names was chosen since this is a translation from the Latin.\f*
 \p
-\v 2 And when he realized their thoughts, and had diligently paid close attention, he learned that they were attempting to cast their hand against king Artaxerxes, and he reported this to the king.
+\v 2 And when he realized their thoughts, and had diligently paid close attention, he learned that they were attempting to cast their hand against king Artaxerxes, and he reported this to the king.\f + \fr 2:2 \ft Again, the name of the king varies depending on the text. Ahasuerus is an English rendering from the Hebrew portion of the text. Artaxerxes is commonly used in English translations of the Greek portion of the text. Many translations mix both versions of the name. Here the Latin version of the name is used, although the Latin version of the name is actually derived from the Greek.\f*
 \p
 \v 3 Then the king had both of them questioned, and when they confessed, he ordered a sentence of death.
 \p
@@ -46,23 +81,23 @@
 \c 3
 \cl Esther 3
 \p
-\v 1 In the days of Artaxerxes, who reigned from India to Ethiopia over one hundred twenty-seven provinces,
+\v 1 In the days of Artaxerxes, who reigned from India to Ethiopia over one hundred twenty-seven provinces,\f + \fr 3:1 \ft In Biblical times, the term “India” did not refer to the subcontinent of India, as we call it today. Rather it referred to various areas east of the Red Sea, including Arabia, Persia, and Parthia, but not present-day India.\f*
 \p
-\v 2 when he sat on the throne of his kingdom, the city of Susa was the root of his kingdom.
+\v 2 when he sat on the throne of his kingdom, the city of Susa was the root of his kingdom.\f + \fr 3:2 \ft The word exordium, is actually “from the beginning.” The word implies the root, origins, dawning, rising, threshold, or starting point of something. Susa is the beginning of his kingdom, or the threshold of his kingdom.\f*
 \p
-\v 3 And so, in the third year of his reign, he made a great feast for all the leaders and his servants, for the most powerful among the Persians and the distinguished among the Medes, and for the rulers of the provinces before him,
+\v 3 And so, in the third year of his reign, he made a great feast for all the leaders and his servants, for the most powerful among the Persians and the distinguished among the Medes, and for the rulers of the provinces before him,\f + \fr 3:3 \ft Convivium literally means living together, or, (more loosely, but, in this context, more accurately) rejoicing together. The concept of food is not intrinsic to the word, even though it is usually translated as feast or similarly. The word perhaps derives from the idea that a group of people who gathered for a feast or celebration would spend several days or longer living and rejoicing in the same place.\f*
 \p
 \v 4 so that he might show the glorious riches of his kingdom, as well as its greatness, and so boast of his power, for a long time, namely, one hundred and eighty days.
 \p
-\v 5 And when the days of the feast were nearly completed, he invited all the people, who had been found in Susa, from the greatest even to the least, and he commanded a feast to be prepared, for seven days, in the court of the garden and the arboretum, which had been planted by the care and by the hand of the king.
+\v 5 And when the days of the feast were nearly completed, he invited all the people, who had been found in Susa, from the greatest even to the least, and he commanded a feast to be prepared, for seven days, in the court of the garden and the arboretum, which had been planted by the care and by the hand of the king.\f + \fr 3:5 \ft Nemoris is a forest, but in this context it is clearly a planted and cultivated area of trees, i.e. an arboretum.\f*
 \p
-\v 6 And, in every direction, tents the color of the sky and of flax as well as hyacinth were hung up, suspended by cords of linen and even purple, which had been placed through rings of ivory and were held up with marble columns. The couches also, of gold and silver, had been arranged over a pavement of emerald-green, bearing scattered jewels, which was decorated with a wonderful variety of images.
+\v 6 And, in every direction, tents the color of the sky and of flax as well as hyacinth were hung up, suspended by cords of linen and even purple, which had been placed through rings of ivory and were held up with marble columns. The couches also, of gold and silver, had been arranged over a pavement of emerald-green, bearing scattered jewels, which was decorated with a wonderful variety of images.\f + \fr 3:6 \ft Purple, purpureis, refers to that ancient and very expensive purple dye used by royalty and the very wealthy.\f*
 \p
 \v 7 Moreover, those who had been invited drank from golden cups, and dishes of foods were brought in one after another. Likewise, choice wine was presented in abundance, as was worthy of royal magnificence.
 \p
 \v 8 Nor was anyone compelled to drink who was unwilling, but, just as the king had appointed, one of his nobles was set over each table, so that each one might select what he wanted.
 \p
-\v 9 Likewise, Vashti the queen made a feast for the women, in the palace where king Artaxerxes was accustomed to stay the night.
+\v 9 Likewise, Vashti the queen made a feast for the women, in the palace where king Artaxerxes was accustomed to stay the night.\f + \fr 3:9 \ft This other feast for the women was in the queen’s palace, not the king’s palace. Apparently, the king would sleep with the queen at her palace, not his.\f*
 \p
 \v 10 And so, on the seventh day, when the king was more cheerful, and, after excessive drinking, had become warmed with wine, he ordered Mehuman, and Biztha, and Harbona, and Bigtha, and Abagtha, and Zethar, and Charkas, seven eunuchs who served in his presence,
 \p
@@ -88,7 +123,7 @@
 \p
 \v 21 His counsel pleased the king and the rulers, and the king acted according to the counsel of Memucan,
 \p
-\v 22 and he sent letters to all the provinces of his kingdom, so that every nation was able to hear and to read, in various languages and letters, that husbands are to be the greater rulers in their own houses, and that this should be published to every people.
+\v 22 and he sent letters to all the provinces of his kingdom, so that every nation was able to hear and to read, in various languages and letters, that husbands are to be the greater rulers in their own houses, and that this should be published to every people.\f + \fr 3:22 \ft Note that husbands are greater rulers in their house than their wives. “Viros principes ac maiores in domibus suis” could be translated as, “husbands are leaders and greater in their own houses,” but the phrase “greater rulers” is more succinct and makes for a better translation. Maiores is comparative, meaning greater, not great.\f*
 \c 4
 \cl Esther 4
 \p
@@ -96,53 +131,53 @@
 \p
 \v 2 And the servants of the king, and his ministers, said, “Let young women be sought for the king, virgins and beautiful,
 \p
-\v 3 and let investigators be sent throughout all the provinces for young women, beautiful and virgins. And let them bring them to the city of Susa, and deliver them to the house of the women under the hand of Hegai the eunuch, who is the overseer and keeper of the king’s women. And let them receive feminine ornaments, and other things necessary for their use.
+\v 3 and let investigators be sent throughout all the provinces for young women, beautiful and virgins. And let them bring them to the city of Susa, and deliver them to the house of the women under the hand of Hegai the eunuch, who is the overseer and keeper of the king’s women. And let them receive feminine ornaments, and other things necessary for their use.\f + \fr 4:3 \ft The phrase “qui considerent” means those who examine or, more literally, those who sit together. In this context, it refers to a group given the task of choosing the young women for the king.\f*
 \p
 \v 4 And whoever among them all will please the king’s eyes, let her reign instead of Vashti.” The idea pleased the king, and so he ordered it to be done as they had suggested.
 \p
-\v 5 There was a Jewish man in the city of Susa, by the name of Mordecai, son of Jair, son of Shimei, son of Kish, of the house of Benjamin,
+\v 5 There was a Jewish man in the city of Susa, by the name of Mordecai, son of Jair, son of Shimei, son of Kish, of the house of Benjamin,\f + \fr 4:5 \ft Here vir is translated merely as “man,” even though it has a somewhat greater meaning than the English word man.\f*
 \p
 \v 6 who had been carried away from Jerusalem at the time that Nebuchadnezzar king of Babylon carried away Jeconiah king of Judah,
 \p
 \v 7 who had raised his brother’s daughter Hadassah, who by another name was called Esther. And she had lost both her parents. She was very beautiful, with a graceful appearance. Since her father and mother had both died, Mordecai adopted her as his own daughter.
 \p
-\v 8 And when the king’s command became very well-known, in accordance with his command, many beautiful virgins were brought to Susa, and were delivered to Hegai the eunuch. Likewise, Esther, along with the other young women, was delivered to him, to be protected with the assembled women.
+\v 8 And when the king’s command became very well-known, in accordance with his command, many beautiful virgins were brought to Susa, and were delivered to Hegai the eunuch. Likewise, Esther, along with the other young women, was delivered to him, to be protected with the assembled women.\f + \fr 4:8 \ft The phrase “in numero feminarum” is loosely translated as “with the assembled women.” Notice that the Latin “in” does not always translate as the English “in”. Literally, “numero feminarum” means “the number of women,” but in this context number means a group, not a particular number.\f*
 \p
-\v 9 She was pleasing to him, and she found favor in his sight. And he commanded a eunuch to hasten the women’s ornaments, and to deliver her share to her, along with seven of the most beautiful young women of the king’s house, so as to both adorn and honor her and her handmaids.
+\v 9 She was pleasing to him, and she found favor in his sight. And he commanded a eunuch to hasten the women’s ornaments, and to deliver her share to her, along with seven of the most beautiful young women of the king’s house, so as to both adorn and honor her and her handmaids.\f + \fr 4:9 \ft Excoleret means to honor or to improve.\f*
 \p
 \v 10 She was not willing to reveal to him her people or her native land. For Mordecai had instructed her that she should keep silent about all these things.
 \p
 \v 11 He went for a walk every day, in the front courtyard of the house in which the chosen virgins were kept, having concern for Esther’s welfare and wanting to know what would happen to her.
 \p
-\v 12 But, when the time came for each in the line of young women to go in to the king, after everything had been completed concerning feminine grooming, the twelfth month had been reached, to the extent that for six months they were anointed with oil of myrrh, and for another six months they used certain types of makeup and perfumes.
+\v 12 But, when the time came for each in the line of young women to go in to the king, after everything had been completed concerning feminine grooming, the twelfth month had been reached, to the extent that for six months they were anointed with oil of myrrh, and for another six months they used certain types of makeup and perfumes.\f + \fr 4:12 \ft The phrase “singularum per ordinem” refers to each in a series or succession. The women needed 12 months to prepare to meet the king. He was apparently looking for a diamond in the rough.\f*
 \p
 \v 13 And when they were going in to the king, whatever they requested to adorn themselves, they received, and when each was pleased with herself, having been prepared in the chamber of the women, she passed on to the king’s chamber.
 \p
 \v 14 And whoever entered at evening, departed in the morning, and then from there she was led to the second house, which was under the hand of Shaashgaz the eunuch, who presided over the king’s concubines. Nor did she have the power to return again to the king, unless the king desired it and had summoned her by name.
 \p
-\v 15 But, as the order continued to progress, the day arrived when Esther, the daughter of Abihail the brother of Mordecai, whom he had adopted as his daughter, was required to go in to the king. She did not seek feminine ornaments, except that whatever Hegai the eunuch and keeper of the virgins chose, he gave her to adorn her. For she was very attractive, and her incredible beauty made her appear gracious and amiable in the eyes of all.
+\v 15 But, as the order continued to progress, the day arrived when Esther, the daughter of Abihail the brother of Mordecai, whom he had adopted as his daughter, was required to go in to the king. She did not seek feminine ornaments, except that whatever Hegai the eunuch and keeper of the virgins chose, he gave her to adorn her. For she was very attractive, and her incredible beauty made her appear gracious and amiable in the eyes of all.\f + \fr 4:15 \ft “Evoluto autem tempore per ordinem” refers to the unfolding, as time passes, of a series or succession of events. It is best translated as a phrase, rather than as a word-for-word translation.\f*
 \p
 \v 16 And so she was led to the chamber of king Artaxerxes, in the tenth month, which is called Tebeth, in the seventh year of his reign.
 \p
 \v 17 And the king loved her more than all the women, and she had favor and mercy in his eyes above all the women, and he set the royal crown on her head, and he made her queen instead of Vashti.
 \p
-\v 18 And he ordered a magnificent feast to be prepared for all the rulers, and for his servants, because of the union and wedding of Esther. And he gave a holiday to all the provinces, and he bestowed gifts befitting of princely generosity.
+\v 18 And he ordered a magnificent feast to be prepared for all the rulers, and for his servants, because of the union and wedding of Esther. And he gave a holiday to all the provinces, and he bestowed gifts befitting of princely generosity.\f + \fr 4:18 \ft Requiem means rest or respite from labor, but in this context it refers to a day of rest from labor, in other words, a holiday.\f*
 \p
 \v 19 And when the virgins were sought for the second time and gathered together, Mordecai remained at the king’s gate.
 \p
-\v 20 Esther had not yet declared her native land and her people, according to his command. For whatever he instructed, Esther observed. And so she did all things as she had become accustomed in the time when he raised her from early childhood.
+\v 20 Esther had not yet declared her native land and her people, according to his command. For whatever he instructed, Esther observed. And so she did all things as she had become accustomed in the time when he raised her from early childhood.\f + \fr 4:20 \ft The phrase “quo eam parvulam nutriebat” means “when she was nourished as a small child.” Parvulam means very small or, more loosely, very young. He raised her from her earliest days, when she was a very young child.\f*
 \p
 \v 21 Therefore, at that time, when Mordecai was staying at the king’s gate, Bagatha and Thara, two of the king’s eunuchs, who were gatekeepers and who presided over the first entryway of the palace, were angry, and they decided to rise up against the king and kill him.
 \p
 \v 22 But Mordecai did not keep this secret, and immediately he reported it to queen Esther, and she reported it to the king in Mordecai’s name, who had brought the matter to her.
 \p
-\v 23 It was inquired into and discovered, and they were both hanged on a gallows. And it was committed to the histories and the chronicles which are delivered in the sight of the king.
+\v 23 It was inquired into and discovered, and they were both hanged on a gallows. And it was committed to the histories and the chronicles which are delivered in the sight of the king.\f + \fr 4:23 \ft The word “patibulo” means a gallows (in general) or a gibbet (more specifically). A gibbet has a “T” or cross shape. Later in the text the word for cross is used to describe the same item.\f*
 \c 5
 \cl Esther 5
 \p
 \v 1 After this, king Artaxerxes exalted Haman, the son of Hammedatha, who was of Agag lineage, and he set his throne above all the rulers whom he had.
 \p
-\v 2 And all the king’s servants, who passed by the doors of the palace, bent their knees and adored Haman, for so the ruler had instructed them. Only Mordecai did not bend his knee, nor adore him.
+\v 2 And all the king’s servants, who passed by the doors of the palace, bent their knees and adored Haman, for so the ruler had instructed them. Only Mordecai did not bend his knee, nor adore him.\f + \fr 5:2 \ft It is not clear from the wording of the text whether this “imperator” is the king or Haman. Imperator can mean emperor or it can mean a ruler or general. Perhaps the text is making fun of Haman, who is only a ruler, but who acts as if he were an emperor.\f*
 \p
 \v 3 The king’s servants, who presided over the doors of the palace, said to him, “Why do you, more than the others, not observe the king’s command?”
 \p
@@ -154,9 +189,9 @@
 \p
 \v 7 In the first month, which is called Nisan, in the twelfth year of the reign of Artaxerxes, the lot was cast into an urn, which in Hebrew is called Pur, in the presence of Haman, to determine on what day and in which month the Jewish people should be destroyed. And it turned out to be the twelfth month, which is called Adar.
 \p
-\v 8 And Haman said to king Artaxerxes, “There is a people dispersed throughout all the provinces of your kingdom and separated one from another, who make use of unusual laws and ceremonies, and who, in addition, show contempt for the king’s ordinances. And you know very well that it is not expedient for your kingdom that they should become insolent through independence.
+\v 8 And Haman said to king Artaxerxes, “There is a people dispersed throughout all the provinces of your kingdom and separated one from another, who make use of unusual laws and ceremonies, and who, in addition, show contempt for the king’s ordinances. And you know very well that it is not expedient for your kingdom that they should become insolent through independence.\f + \fr 5:8 \ft Novis can mean new, or it can mean strange or unusual. In this context, the laws of the Jews are seen as strange or unusual to the Persians, not as merely new.\f*
 \p
-\v 9 If it pleases you, declare that they may be destroyed, and I will weigh out ten thousand talents to the keepers of your treasury.”
+\v 9 If it pleases you, declare that they may be destroyed, and I will weigh out ten thousand talents to the keepers of your treasury.”\f + \fr 5:9 \ft Appendam means to weigh, but it also means to hang (as to hang on a balance or scale when weighing). Haman wants to condemn the Jews to death by hanging ten thousand talents on monetary scales. Yet he himself is killed by being hung on the scales of justice and hanged on the gallows.\f*
 \p
 \v 10 And so the king took the ring that he used, from his own hand, and gave it to Haman, the son of Hammedatha, of Agag lineage, enemy of the Jews.
 \p
@@ -164,13 +199,13 @@
 \p
 \v 12 And the scribes of the king were summoned, in the first month Nisan, on the thirteenth day of the same month. And it was written, as Haman had commanded, to all the king’s governors, and to the judges of the provinces, and to various peoples, so that each people could read and hear according to their various languages, in the name of king Artaxerxes. And the letters were sealed with his ring.
 \p
-\v 13 These were sent by the king’s messengers to all the provinces, so as to kill and destroy all the Jews, from children all the way to the elderly, even little children and women, on one day, that is, on the thirteenth of the twelfth month, which is called Adar, and to plunder their goods, even their necessities.
+\v 13 These were sent by the king’s messengers to all the provinces, so as to kill and destroy all the Jews, from children all the way to the elderly, even little children and women, on one day, that is, on the thirteenth of the twelfth month, which is called Adar, and to plunder their goods, even their necessities.\f + \fr 5:13 \ft The Latin vulgate places those verses found in the Greek version of Esther at the end of the book, after those verses found in the Hebrew. This places some of the text out of narrative order: “... et diriperent bona, vel substantias eorum.” This last part of verse 5:13 is a correction, based on the Latin Vulgate, which has both “... et bona eorum diriperent.” (3:13 Vulgate numbering) and a separate verse “Et diripuerunt bona, vel substantias eorum.” (12:6b Vulgate numbering). This separate verse does not fit into the narrative in its place in the Vulgate arrangement. Its only reasonable fit into the narrative is in this place in the text, as an emendation indicating that the Jews enemies planned to plunder not only their wealth, but also their most basic possessions. The verse does not fit into verses 12:11 or 14:10 (new numbering), because the king’s just order would not ask the Jews to take even the necessities of their enemies (which might go to surviving relatives in need) and also because the Jews decided not to avail themselves of the option of taking the spoils at all.\f*
 \c 6
 \cl Esther 6
 \p
-\v 1 And this was the text of the letter: “Artaxerxes, the great king from India all the way to Ethiopia, to the leaders and generals of the one hundred twenty-seven provinces, which are subject to his authority, greetings.
+\v 1 And this was the text of the letter: “Artaxerxes, the great king from India all the way to Ethiopia, to the leaders and generals of the one hundred twenty-seven provinces, which are subject to his authority, greetings.\f + \fr 6:1 \ft Principibus and ducibus each refers to some type of leader. Principibus is often translated as princes, but since it does not actually refer to sons of the king, the more general term of leaders is a better fit. Ducibus in this context, when paired with principibus, probably refers to some type of military leader, a general. Since principibus is listed first, these leaders probably had authority over the ducibus generals.\f*
 \p
-\v 2 Although I have reigned over many nations and subjugated the whole world under my realm, I was by no means willing to abuse the greatness of this power, but to govern my subjects with clemency and leniency, so that they would settle into a quiet life, apart from any terror, and delight in peace, as all mortals would choose to do.
+\v 2 Although I have reigned over many nations and subjugated the whole world under my realm, I was by no means willing to abuse the greatness of this power, but to govern my subjects with clemency and leniency, so that they would settle into a quiet life, apart from any terror, and delight in peace, as all mortals would choose to do.\f + \fr 6:2 \ft Transigentes can have a wide variety of different meanings, depending on the context. Optata means to choose or select or desire or wish for something. Here the translation “delight in peace” takes into account the context as well as the Douay-Rheims translation “enjoy peace.”\f*
 \p
 \v 3 Yet, in asking my counselors how this might be able to be accomplished, one who excelled the others in wisdom and fidelity, and who was second after the king, named Haman,
 \p
@@ -180,7 +215,7 @@
 \p
 \v 6 we commanded that whomever Haman, who is chief over all the provinces, and second after the king, and whom we honor in the place of a father, whomever he would point out should be destroyed by their enemies, with their wives and children, and that no one may take pity on them, on the fourteenth day of the twelfth month Adar of this present year,
 \p
-\v 7 so that these guilty men, all on one day, may go down to the underworld, restoring to our empire the peace that they had disturbed.”
+\v 7 so that these guilty men, all on one day, may go down to the underworld, restoring to our empire the peace that they had disturbed.”\f + \fr 6:7 \ft The word nefarii refers to something that is criminal, not merely against the written law, but also very offensive. Inferos is sometimes translated as Hell, but it can also refer merely to death or to one’s state of being after death. It has a more general meaning than Hell, and so it should only be translated as Hell when indicated by the context.\f*
 \p
 \v 8 And the effect of the letters was this: that all provinces would know and prepare for the prescribed day.
 \p
@@ -188,13 +223,13 @@
 \c 7
 \cl Esther 7
 \p
-\v 1 When Mordecai had heard this, he tore his garments and put on sackcloth, strewing ashes on his head, and he cried out with a loud voice in the main street of the city, revealing the anguish of his soul.
+\v 1 When Mordecai had heard this, he tore his garments and put on sackcloth, strewing ashes on his head, and he cried out with a loud voice in the main street of the city, revealing the anguish of his soul.\f + \fr 7:1 \ft Notice that Mordecai strews only ashes on his head. This point is relevant to the translation of verse 8:2, when Esther does similarly. The phrase “in platea mediæ civitatis” refers to a wide street in the middle of the city. In modern terms, such a street would be called main street. It is not merely any street, but the main thoroughfare.\f*
 \p
 \v 2 And he continued with this lamenting, even up to the gate of the palace, for no one clothed with sackcloth is permitted to enter the king’s court.
 \p
 \v 3 Likewise, in all provinces, towns, and places where the king’s cruel decision arrived, there was extraordinary mourning among the Jews with fasting, wailing, and weeping, with many using sackcloth and ashes for their bed.
 \p
-\v 4 Then Esther’s maids and eunuchs went in and informed her. When she heard it, she was shocked, and she sent a garment to clothe him and to take away the sackcloth, but he would not accept it.
+\v 4 Then Esther’s maids and eunuchs went in and informed her. When she heard it, she was shocked, and she sent a garment to clothe him and to take away the sackcloth, but he would not accept it.\f + \fr 7:4 \ft Consternata est refers to a reaction or emotion of being confused, perplexed, confounded, or, to use the more common expression, shocked.\f*
 \p
 \v 5 And she sent for Hathach the eunuch, whom the king had appointed to minister to her, and she instructed him to go to Mordecai and to discern from him why he was doing this.
 \p
@@ -206,7 +241,7 @@
 \p
 \v 9 And Hathach returned and informed Esther of all that Mordecai had said.
 \p
-\v 10 “Remember,” he said, “the days of your lowliness, how you were nurtured as if in my hand, because Haman, who is second after the king, has spoken against us to death.
+\v 10 “Remember,” he said, “the days of your lowliness, how you were nurtured as if in my hand, because Haman, who is second after the king, has spoken against us to death.\f + \fr 7:10 \ft Latin has no quotation marks, so quotes are understood by the context. Sometimes, when the context does not make it clear that the sentence is a quote, the word “inquit” is added, meaning “he said.” Here verses 7:10 – 7:11 are from verses 15:2 – 15:3 in the Latin Vulgate. These verses are found in the Greek version of the text, but not the Hebrew.\f*\f + \fr 7:10 \ft The phrase “dierum humilitatis tuæ” refers to the time when Esther was a lowly commoner, not the queen of the Persian empire. The phrase “nutrita sis in manu mea” refers to the time when Esther was raised or nurtured by Mordecai. The word “sis” indicates a figure of speech: “as if in my hand.”\f*
 \p
 \v 11 And you must call upon the Lord, and speak with the king on our behalf, and free us from death.”
 \p
@@ -218,13 +253,13 @@
 \p
 \v 15 For, if you remain silent now, the Jews will be delivered through some other opportunity, but you and your father’s house will perish. And who knows whether you have come to the kingdom for this reason, so that you would be prepared for such a time as this?”
 \p
-\v 16 And he entrusted her (there was no question but that it was Mordecai) to go in to the king, and to petition on behalf of her people and her native land.
+\v 16 And he entrusted her (there was no question but that it was Mordecai) to go in to the king, and to petition on behalf of her people and her native land.\f + \fr 7:16 \ft Verse 7:16 (which is 15:1 in the Latin Vulgate) is often omitted from English versions of Esther, even though it is consistently found in the Clementine Latin Vulgate. It has been placed here, in its logical position within the narrative.\f*
 \p
 \v 17 And again Esther sent to Mordecai in these words:
 \p
-\v 18 “Go and gather together all the Jews whom you will find in Susa, and pray for me. Neither eat nor drink for three days and three nights, and I will fast with my handmaids similarly, and then I will go in to the king, doing what is against the law, not having been called, and so expose myself to mortal danger.”
+\v 18 “Go and gather together all the Jews whom you will find in Susa, and pray for me. Neither eat nor drink for three days and three nights, and I will fast with my handmaids similarly, and then I will go in to the king, doing what is against the law, not having been called, and so expose myself to mortal danger.”\f + \fr 7:18 \ft Literally, the phrase “morti et periculo” means “death and danger,” but the more common expression “mortal danger” is a better fit.\f*
 \p
-\v 19 And so Mordecai went, and he did everything that Esther had instructed him.
+\v 19 And so Mordecai went, and he did everything that Esther had instructed him.\f + \fr 7:19 \ft “Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther.” is found before 13:8 – 14:19 in the Clementine Latin Vulgate, but it is merely a rephrasing of verse 4:17 (i.e. 7:19): “Ivit itaque Mardochæus, et fecit omnia, quæ ei Esther præceperat.”\f*
 \p
 \v 20 Now Mordecai beseeched the Lord, remembering all his works,
 \p
@@ -244,7 +279,7 @@
 \p
 \v 28 Do not despise your portion, which you have redeemed for yourself out of Egypt.
 \p
-\v 29 Listen to my supplication, and be gracious to your lot and your token, and change our sorrow into gladness, so that, in living, we may praise your name, Lord; and do not close the mouths of those who sing to you.”
+\v 29 Listen to my supplication, and be gracious to your lot and your token, and change our sorrow into gladness, so that, in living, we may praise your name, Lord; and do not close the mouths of those who sing to you.”\f + \fr 7:29 \ft The phrase “sorti et funiculo tuo” literally means “your lot and string.” Funiculo is a thin rope or a cord or string. The word is used to refer to an ancient practice of using a string in a similar way to the casting of lots, i.e. to make a decision, often about a future event.\f*
 \p
 \v 30 Likewise, all Israel cried out to the Lord with the same intention and supplication because certain death was hanging over them.
 \c 8
@@ -252,7 +287,7 @@
 \p
 \v 1 Queen Esther also, fearing the danger that was imminent, fled to the Lord.
 \p
-\v 2 And when she had put aside her royal apparel, she took up garments suitable for weeping and mourning, and instead of various ointments, she covered her head with ashes from burnt dung, and she humbled her body with fasting, and all the aspects of her beauty, she covered with her torn hair.
+\v 2 And when she had put aside her royal apparel, she took up garments suitable for weeping and mourning, and instead of various ointments, she covered her head with ashes from burnt dung, and she humbled her body with fasting, and all the aspects of her beauty, she covered with her torn hair.\f + \fr 8:2 \ft Esther covered her head with “cinere et stercore,” literally, “ashes and filth” or “ashes and dung.” However, Esther did not literally put dung on her head. This was not the Jewish custom, as is clear from other sections of the text, where Mordecai and the other Jews put only ashes on their head. The correct understanding of this text leads to a more accurate, but less literal translation. In some arid lands, where there are not many trees to use as fuel for fires, people use dried animal dung to burn for their fires. Esther took ashes from such a fire and put them on her head. The translation should be “ashes from burnt dung,” rather than “ashes and dung.”\f*
 \p
 \v 3 And she begged the Lord God of Israel, saying, “My Lord, who alone is our King, help me, a solitary woman, for there is no other helper but you.
 \p
@@ -270,19 +305,19 @@
 \p
 \v 10 so that they may open the mouths of the nations, and praise the strength of idols, and proclaim a worldly king in perpetuity.
 \p
-\v 11 Lord, do not hand over your scepter to that which does not exist, lest they laugh at our ruin, but turn their counsel upon themselves and destroy him who has begun to rage against us.
+\v 11 Lord, do not hand over your scepter to that which does not exist, lest they laugh at our ruin, but turn their counsel upon themselves and destroy him who has begun to rage against us.\f + \fr 8:11 \ft That which does not exist, “his, qui non sunt,” refers to the idols because such gods do not exist.\f*
 \p
 \v 12 Be mindful, Lord, and show yourself to us in the time of our tribulation, and give me faith, Lord, King of gods and of every power.
 \p
-\v 13 Grant fitting words to my mouth in the sight of the lion, and transform his heart to hate our enemy, so that both he, and the others who conspire with him, may perish.
+\v 13 Grant fitting words to my mouth in the sight of the lion, and transform his heart to hate our enemy, so that both he, and the others who conspire with him, may perish.\f + \fr 8:13 \ft The lion, leonis, here is the king and the enemy is Haman and the others.\f*
 \p
 \v 14 But free us by your hand, and help me, who has no other helper but you, Lord, who holds the knowledge of all things.
 \p
-\v 15 And you know that I hate the glory of the wicked, and I detest the bed of the uncircumcised, and of all outsiders.
+\v 15 And you know that I hate the glory of the wicked, and I detest the bed of the uncircumcised, and of all outsiders.\f + \fr 8:15 \ft The word “alienigenæ” here refers not to persons from a foreign land, for Esther was herself a foreigner to the land of Persia, but rather to outsiders, those from another religion or no religion.\f*
 \p
-\v 16 You know my necessity, that I loathe the sign of my exaltation and glory, which is on my head in the days of my exhibition, and that I detest it like a menstruous rag and do not wear it in the days of my silence,
+\v 16 You know my necessity, that I loathe the sign of my exaltation and glory, which is on my head in the days of my exhibition, and that I detest it like a menstruous rag and do not wear it in the days of my silence,\f + \fr 8:16 \ft The sign of her exaltation is her crown, which she must wear when brought before the king and his associates (something Vashti refused to do), and perhaps also her royal garments. The days of her silence are the days when she does not have to present herself publicly before the king and others. Esther prefers the days of her silence over the days of her exhibition.\f*
 \p
-\v 17 and that I have not eaten at Haman’s table, nor has the king’s feasts pleased me, and that I have not drunk the wine of his libations,
+\v 17 and that I have not eaten at Haman’s table, nor has the king’s feasts pleased me, and that I have not drunk the wine of his libations,\f + \fr 8:17 \ft The “vinum libaminum” is the wine the king uses in his worship of idols and false gods.\f*
 \p
 \v 18 and that your handmaid has never rejoiced, from the time that I was carried here until this very day, except in you, Lord, God of Abraham.
 \p
@@ -290,7 +325,7 @@
 \c 9
 \cl Esther 9
 \p
-\v 1 So, on the third day, she put away her ornate apparel, and surrounded herself with glory.
+\v 1 So, on the third day, she put away her ornate apparel, and surrounded herself with glory.\f + \fr 9:1 \ft The glory she surrounded herself with was her glorious apparel, including her crown. Notice that she takes off ornate apparel and puts on even better garments.\f*
 \p
 \v 2 And when she was shining in a royal manner, and had called upon God, the Guide and Savior of all, she took two maids with her.
 \p
@@ -306,7 +341,7 @@
 \p
 \v 8 And God changed the king’s spirit into gentleness; quickly and apprehensively, he leapt from his throne, and lifting her up in his arms until she came to herself, he coaxed her with these words:
 \p
-\v 9 “What is the matter, Esther? I am your brother, do not be afraid.
+\v 9 “What is the matter, Esther? I am your brother, do not be afraid.\f + \fr 9:9 \ft The word “frater” meaning brother is often used in the Bible to refer to persons who are not children of the same parents. The word brother has broad meaning in the Bible.\f*
 \p
 \v 10 You will not die. For this law has not been established for you, but for all others.
 \p
@@ -316,13 +351,13 @@
 \p
 \v 13 She answered, “I saw you, my lord, as an angel of God, and my heart was disturbed for fear of your glory.
 \p
-\v 14 For you, my lord, are great and wonderful, and your face is full of grace.”
+\v 14 For you, my lord, are great and wonderful, and your face is full of grace.”\f + \fr 9:14 \ft Here is an example in Scripture of the term “full of grace” also found in the Hail Mary prayer.\f*
 \p
-\v 15 And while she was speaking, she collapsed again, because she was out of breath.
+\v 15 And while she was speaking, she collapsed again, because she was out of breath.\f + \fr 9:15 \ft The word pene can have various very diverse meanings. In this context, it is certainly used to mean “because” or “for” and is not used as a noun. The word exanimata can refer to death, (ex anima, out of the soul, or the soul leaves). The word can also mean out of breath, since anima mean spirit or breath or the breath of life.\f*
 \p
 \v 16 But the king was troubled, and all his servants consoled her.
 \p
-\v 17 And so, on the third day, Esther had put on her royal apparel and was standing in the atrium of the king’s house, which was inside, opposite the king’s hall, while he was sitting on his throne in the council room of the palace, opposite the entrance of the house.\f \fr 9:17 \ft Verses 17-18, alternate text from the Hebrew.\f*
+\v 17 And so, on the third day, Esther had put on her royal apparel and was standing in the atrium of the king’s house, which was inside, opposite the king’s hall, while he was sitting on his throne in the council room of the palace, opposite the entrance of the house.\f + \fr 9:17 \ft Verses 17-18, alternate text from the Hebrew is a shorter form of verses 1-15 in the Latin.\f*
 \p
 \v 18 And when he saw Esther the queen standing there, she pleased his eyes, and he extended toward her the golden scepter, which he held in his hand, and she approached and kissed the top of his scepter.
 \p
@@ -342,27 +377,27 @@
 \p
 \v 26 But, concealing his anger and returning into his house, he gathered to him his friends and Zeresh, his wife.
 \p
-\v 27 And he explained to them the greatness of his riches, and the influence of his sons, and how, with such glory, the king had elevated him above all his rulers and servants.
+\v 27 And he explained to them the greatness of his riches, and the influence of his sons, and how, with such glory, the king had elevated him above all his rulers and servants.\f + \fr 9:27 \ft The word turbam means a disturbance or a commotion. It can also refer to a large crowd or a large number of persons. However, in this context, Haman is boasting about his life. It is not much of a boast to say that ones sons cause a commotion, nor to say merely that one has many sons. Rather, Haman is boasting that his sons are influential, in that they can stir things up when they wish.\f*
 \p
 \v 28 And after this, he said, “Also, queen Esther has called no one else to the feast with the king, except me. And I will be dining with the king again tomorrow.
 \p
 \v 29 And though I have all these things, I consider that I have nothing as long as I see Mordecai the Jew sitting in front of the king’s gate.”
 \p
-\v 30 And Zeresh his wife and his other friends answered him, “Order a great beam to be prepared, having a height of fifty cubits, and in the morning speak to the king, so that Mordecai may be hanged from it, and so you will go joyfully with the king to the feast.” This advice pleased him, and so he ordered a high cross to be prepared.
+\v 30 And Zeresh his wife and his other friends answered him, “Order a great beam to be prepared, having a height of fifty cubits, and in the morning speak to the king, so that Mordecai may be hanged from it, and so you will go joyfully with the king to the feast.” This advice pleased him, and so he ordered a high cross to be prepared.\f + \fr 9:30 \ft The word crucem means cross. Elsewhere in the text the word patibulo is used, meaning gallows. Both words refer to the same “T” shaped wooden structure used for hangings. This is not the type of cross used by the Romans for executions.\f*
 \c 10
 \cl Esther 10
 \p
 \v 1 The king passed that night without sleep, and so he ordered the histories and chronicles of former times to be brought to him. And when they were reading them before him,
 \p
-\v 2 they came to that place where it had been written, how Mordecai had reported the treachery of Bigthan and Teresh the eunuchs, who desired to cut the throat of king Artaxerxes.
+\v 2 they came to that place where it had been written, how Mordecai had reported the treachery of Bigthan and Teresh the eunuchs, who desired to cut the throat of king Artaxerxes.\f + \fr 10:2 \ft The word “iugulare” means to kill someone by cutting their throat. “Jugulare” refers to the throat. The English word jugular, as in the jugular vein, is derived from the Latin.\f*
 \p
-\v 3 When the king had heard this, he said, “What honor and reward has Mordecai been given for this fidelity?” His servants and ministers said to him, “He has received no compensation at all.”
+\v 3 When the king had heard this, he said, “What honor and reward has Mordecai been given for this fidelity?” His servants and ministers said to him, “He has received no compensation at all.”\f + \fr 10:3 \ft Compensation, or reward, or gift.\f*
 \p
 \v 4 And immediately the king said, “Who is in the atrium?” For, you see, Haman was entering the inner atrium of the king’s house to suggest to the king that he should order Mordecai to be hanged on the gallows, which had been prepared for him.
 \p
 \v 5 The servants answered, “Haman is standing in the atrium.” And the king said, “Let him enter.”
 \p
-\v 6 And when he had entered, he said to him, “What ought to be done for the man whom the king wishes to honor?” But Haman, thinking in his heart and supposing that the king would honor no one else but himself,
+\v 6 And when he had entered, he said to him, “What ought to be done for the man whom the king wishes to honor?” But Haman, thinking in his heart and supposing that the king would honor no one else but himself,\f + \fr 10:6 \ft Interestingly, the author of this book uses “vir” when the king is speaking, because he is referring to Mordecai. The word “vir” has a generally positive connotation, not unlike the word “gentleman.” But, in the next verse, the author has Haman use the word “homo,” meaning merely “man,” because Haman is referring to himself. The author puts the less complementary word in Haman’s mouth to show that Haman is not worthy to be called “vir.” Haman is not a gentleman, but merely a man.\f*
 \p
 \v 7 answered, “The man whom the king wishes to honor,
 \p
@@ -392,13 +427,13 @@
 \p
 \v 5 And king Artaxerxes answered and said, “Who is this, and of what power, that he would dare to do these things?”
 \p
-\v 6 And Esther said, “This is our most wicked enemy and foe: Haman!” Hearing this, Haman was suddenly dumbfounded, unable to bear the faces of the king and the queen.
+\v 6 And Esther said, “This is our most wicked enemy and foe: Haman!” Hearing this, Haman was suddenly dumbfounded, unable to bear the faces of the king and the queen.\f + \fr 11:6 \ft “Hostis” means enemy in the sense of the enemy of a nation or a large group, or an enemy in war or battle. The word “inimicus” tends more towards the meaning of a personal enemy.\f*
 \p
-\v 7 But the king, being angry, rose up and, from the place of the feast, entered into the arboretum of the garden. Haman likewise rose up to entreat Esther the queen for his soul, for he understood that evil was prepared for him by the king.
+\v 7 But the king, being angry, rose up and, from the place of the feast, entered into the arboretum of the garden. Haman likewise rose up to entreat Esther the queen for his soul, for he understood that evil was prepared for him by the king.\f + \fr 11:7 \ft Or, for his life.\f*
 \p
 \v 8 When the king returned from the arboretum of the garden and entered into the place of the feast, he found Haman collapsed on the couch on which Esther lay, and he said, “And now he wishes to oppress the queen, in my presence, in my house!” The word had not yet gone out of the king’s mouth, and immediately they covered his face.
 \p
-\v 9 And Harbona, one of the eunuchs who stood in ministry to the king, said, “Behold the wood, which he had prepared for Mordecai, who spoke up on behalf of the king, stands in Haman’s house, having a height of fifty cubits.” The king said to him, “Hang him from it.”
+\v 9 And Harbona, one of the eunuchs who stood in ministry to the king, said, “Behold the wood, which he had prepared for Mordecai, who spoke up on behalf of the king, stands in Haman’s house, having a height of fifty cubits.” The king said to him, “Hang him from it.”\f + \fr 11:9 \ft The gallows at Haman’s house has been called “patibulo,” “crucem,” and here, “lignum,” respectively translated as gallows, cross, and wood.\f*
 \p
 \v 10 And so Haman was hanged on the gallows, which he had prepared for Mordecai, and the king’s anger was quieted.
 \c 12
@@ -420,11 +455,11 @@
 \p
 \v 8 Therefore, write to the Jews, just as it pleases you, in the king’s name, sealing the letters with my ring.” For this was the custom, that letters which were sent in the king’s name and were sealed with his ring, no one would dare to contradict.
 \p
-\v 9 Then the scribes and copyists were brought in, (now it was the time of the third month which is called Sivan,) on the twenty-third day of the month, and letters were written, as Mordecai wanted, to the Jews, and to the governors, and procurators, and judges, who presided over the one hundred twenty-seven provinces, from India all the way to Ethiopia: to one province and another, to one people and another, in accordance with their languages and letters, and to the Jews, exactly as they were able to read and hear.
+\v 9 Then the scribes and copyists were brought in, (now it was the time of the third month which is called Sivan,) on the twenty-third day of the month, and letters were written, as Mordecai wanted, to the Jews, and to the governors, and procurators, and judges, who presided over the one hundred twenty-seven provinces, from India all the way to Ethiopia: to one province and another, to one people and another, in accordance with their languages and letters, and to the Jews, exactly as they were able to read and hear.\f + \fr 12:9 \ft The scribes would translate the letter, and perhaps help to compose the letter. The copyists would write out copies of the letter, and perhaps even take dictation from the scribes as they translated.\f*
 \p
-\v 10 And these letters, which were sent in the king’s name, had been signed with his ring, and were sent by swift couriers who were to rush in every direction, through all the provinces, so as to prevent the former letters with new messages.
+\v 10 And these letters, which were sent in the king’s name, had been signed with his ring, and were sent by swift couriers who were to rush in every direction, through all the provinces, so as to prevent the former letters with new messages.\f + \fr 12:10 \ft The word “veredarios” is derived from “veredus,” referring to a swift horse; veredarios refers to couriers using swift horses.\f*
 \p
-\v 11 The king commanded them to bring together the Jews throughout each city, and to instruct them to join together, so as to make a stand for their lives, and to execute and destroy all their enemies, with their wives and children and their entire houses, and to plunder their spoil.
+\v 11 The king commanded them to bring together the Jews throughout each city, and to instruct them to join together, so as to make a stand for their lives, and to execute and destroy all their enemies, with their wives and children and their entire houses, and to plunder their spoil.\f + \fr 12:11 \ft The word “interficerent” refers to killing under authority, an execution rather than a murder.\f*
 \p
 \v 12 And one day of retribution was established throughout all the provinces, namely, the thirteenth of the twelfth month Adar.
 \c 13
@@ -434,21 +469,21 @@
 \p
 \v 2 In arrogance, many have abused the goodness of leaders and the honor that has been bestowed on them,
 \p
-\v 3 and they strive, not only to oppress the king’s subjects, but, not acting according to the glory given to them, set in motion a plan to ambush those very ones who gave it.
+\v 3 and they strive, not only to oppress the king’s subjects, but, not acting according to the glory given to them, set in motion a plan to ambush those very ones who gave it.\f + \fr 13:3 \ft The phrase “moliuntur insidias” is here translated loosely as “set in motion a plan to ambush.” The word moliuntur means to undertake something, or to labor or struggle to do something, or to set something (a plan) in motion. Insidias refers to treachery or a plot or an ambush.\f*
 \p
-\v 4 Neither are they content to withhold thanks for benefits and to violate in themselves the laws of humanity, but they also think they are able to escape from every sentence of the sifting judgment of God.
+\v 4 Neither are they content to withhold thanks for benefits and to violate in themselves the laws of humanity, but they also think they are able to escape from every sentence of the sifting judgment of God.\f + \fr 13:4 \ft The word cernentis means to sift or to distinguish or to discern. In this translation, the well-known phrase “sifting judgment of God” is fittingly applied.\f*
 \p
-\v 5 And they rush forth in such insanity that they attempt to subvert by filthy lies those who carefully fulfill the offices delegated to them and so perform everything that is deserving of the praise of all.
+\v 5 And they rush forth in such insanity that they attempt to subvert by filthy lies those who carefully fulfill the offices delegated to them and so perform everything that is deserving of the praise of all.\f + \fr 13:5 \ft The phrase “mendaciorum cuniculis” is a very strong expression for a royal letter. The word “cuniculis” refers to excrement or filth, and can be a rather objectionable and base term.\f*
 \p
-\v 6 Meanwhile, they craftily deceive by fraud the ears of single-minded leaders, and they judge others according to their own nature.
+\v 6 Meanwhile, they craftily deceive by fraud the ears of single-minded leaders, and they judge others according to their own nature.\f + \fr 13:6 \ft The word “simplices” means simple or single or unaffected. In this context, “principum simplices” means a single-minded leader or a clear minded leader. The implication is that the leader does not bear much blame.\f*
 \p
 \v 7 These things are proven both from the ancient histories and from those things which happen daily: how the zeal of kings can be corrupted by the evil suggestions of such persons.
 \p
 \v 8 Therefore, we will make provision for the peace of all the provinces.
 \p
-\v 9 Neither should you think, if we change our orders, that they come from a fickle mind, but that we draw conclusions from the quality and necessity of the times, just as the expediency of the public good demands.
+\v 9 Neither should you think, if we change our orders, that they come from a fickle mind, but that we draw conclusions from the quality and necessity of the times, just as the expediency of the public good demands.\f + \fr 13:9 \ft Animi often means soul or life, but it can, as in this case, refer to the mind.\f*
 \p
-\v 10 And, so that you may more clearly understand what we are saying: Haman the son of Hammedatha, a Macedonian both in mind and ancestry, and foreign to Persian blood, and with his cruelty contaminating our piety, was accepted by us as a sojourner.
+\v 10 And, so that you may more clearly understand what we are saying: Haman the son of Hammedatha, a Macedonian both in mind and ancestry, and foreign to Persian blood, and with his cruelty contaminating our piety, was accepted by us as a sojourner.\f + \fr 13:10 \ft He was accepted as a sojourner, as a wayward traveler in need.\f*
 \p
 \v 11 And our humanity proved to be so great towards him that he was called our father and was adored by all as second only to the king.
 \p
@@ -458,25 +493,25 @@
 \p
 \v 14 This he planned so that, after they were executed, he might work treason against us in our solitude and transfer the kingdom of the Persians to the Macedonians.
 \p
-\v 15 But we, having been resolved to ruin in death the mortal Jews, discovered no fault within them, but on the contrary, they use just laws
+\v 15 But we, having been resolved to ruin in death the mortal Jews, discovered no fault within them, but on the contrary, they use just laws\f + \fr 13:15 \ft Clearly, the text is saying that the king had been resolved (destinatos, having been resolved) to kill the Jews, but changed his mind when he discovered no fault in them.\f*
 \p
 \v 16 and are sons of the highest and greatest and ever-living God, by whose kindness the kingdom was handed down both to our fathers and to us, and is cared for even unto this day.
 \p
-\v 17 Therefore, you should understand to be null and void those letters that he administered under our name.
+\v 17 Therefore, you should understand to be null and void those letters that he administered under our name.\f + \fr 13:17 \ft The word “irritas” means “ineffective” or “null and void.”\f*
 \p
-\v 18 For this crime, before the gates of this city, that is, Susa, both he who devised it, and all his associates, hang on gallows: not we, but God repaying him as he deserved.
+\v 18 For this crime, before the gates of this city, that is, Susa, both he who devised it, and all his associates, hang on gallows: not we, but God repaying him as he deserved.\f + \fr 13:18 \ft The word “cognatio” often refers to relatives, but it can include close friends or close associates.\f*
 \p
 \v 19 But this edict, which we now send, shall be displayed in all cities so that the Jews may be allowed to use their own laws.
 \p
-\v 20 You must be a support to them, so that they may be able to execute those, who themselves had prepared to kill them, on the thirteenth day of the twelfth month, which is called Adar.
+\v 20 You must be a support to them, so that they may be able to execute those, who themselves had prepared to kill them, on the thirteenth day of the twelfth month, which is called Adar.\f + \fr 13:20 \ft Notice that the act of the Jews killing their enemies is called an execution (interficere, to kill by authority), whereas the act of their enemies planning to kill the Jews is called a killing or murder (necem). The author’s choice of words show the understanding that this act by the Jews is lawful, whereas the act planned by Haman, though done under the guise of authority, was unlawful.\f*
 \p
-\v 21 For the almighty God has turned this day of grief and sorrow into joy for them.
+\v 21 For the almighty God has turned this day of grief and sorrow into joy for them.\f + \fr 13:21 \ft Again, the verb vertit is used to indicate the change of fortune of the Jews.\f*
 \p
-\v 22 Therefore, you too will keep this day, along with the other festival days, and celebrate it with all joy, so that it may be known even by future generations.
+\v 22 Therefore, you too will keep this day, along with the other festival days, and celebrate it with all joy, so that it may be known even by future generations.\f + \fr 13:22 \ft Or, by (your) posterity.\f*
 \p
 \v 23 All those who faithfully obey the Persians deserve, for their fidelity, to receive a reward, but those who are traitors to their kingdom deserve to be destroyed for their crime.
 \p
-\v 24 But every province and city, which is not willing to participate in this solemnity, must perish by the sword and by fire, and be destroyed in this way so that they will be forever an indisputable example of contempt and disobedience, not only to humans, but even to wild animals.”
+\v 24 But every province and city, which is not willing to participate in this solemnity, must perish by the sword and by fire, and be destroyed in this way so that they will be forever an indisputable example of contempt and disobedience, not only to humans, but even to wild animals.”\f + \fr 13:24 \ft The word “invia” means impassable or inaccessible, but in this context, it refers to something that one cannot ignore or explain away, i.e., something intellectually impassable or indisputable.\f*
 \p
 \v 25 And such was the content of the letter, so that it would be made known in all lands and nations, which are subject to the authority of king Artaxerxes, that the Jews have been made ready to be vindicated of their enemies.
 \p
@@ -484,13 +519,13 @@
 \p
 \v 27 But Mordecai, going forth from the palace and from the king’s presence, shone in royal apparel the color of hyacinth and of the sky, wearing a golden crown on his head, and clothed with a cloak of silk and purple. And all the city rejoiced and was joyful.
 \p
-\v 28 But for the Jews, a new light seemed to rise; there was joy, honor, and dancing.
+\v 28 But for the Jews, a new light seemed to rise; there was joy, honor, and dancing.\f + \fr 13:28 \ft Or, more loosely: “But the Jews saw a new light rise....”\f*
 \p
 \v 29 With all the peoples, cities, and provinces, wherever the king’s orders arrived, there was wonderful rejoicing, banquets and feasts, and a solemn holy day, so much so that many of the other nations joined themselves to their religious practices and ceremonies. For a great fear of the name of the Jews had overcome them all.
 \c 14
 \cl Esther 14
 \p
-\v 1 Therefore, on the thirteenth day of the twelfth month, which as we have said before is called Adar, when all the Jews were prepared to be executed and their enemies were greedy for their blood, the situation turned around, and the Jews began to have the upper hand and to vindicate themselves of their adversaries.
+\v 1 Therefore, on the thirteenth day of the twelfth month, which as we have said before is called Adar, when all the Jews were prepared to be executed and their enemies were greedy for their blood, the situation turned around, and the Jews began to have the upper hand and to vindicate themselves of their adversaries.\f + \fr 14:1 \ft “Versa vice” means, literally, “around turn.”\f*
 \p
 \v 2 And they gathered together throughout each city, and town, and place, so as to extend their hands against their enemies and their persecutors. And no one dared to resist them, because their great power had pierced all the peoples.
 \p
@@ -508,25 +543,25 @@
 \p
 \v 9 and Parmashta, and Arisai, and Aridai, and Vaizatha.
 \p
-\v 10 When they had slain them, they were unwilling to touch the spoils of their belongings.
+\v 10 When they had slain them, they were unwilling to touch the spoils of their belongings.\f + \fr 14:10 \ft Or, the spoils of their necessities.\f*
 \p
 \v 11 And immediately the number of those who had been killed in Susa was reported to the king.
 \p
 \v 12 He said to the queen, “In the city of Susa, the Jews have executed five hundred men, and also the ten sons of Haman. How many executions do you think that they have carried out in all the provinces? What more do you ask, and what do you wish, so that I may order it to be done?”
 \p
-\v 13 And she answered, “If it pleases the king, may power be granted to the Jews, so as to do tomorrow in Susa just as they have done today, and that the ten sons of Haman may be hung up the gallows.”
+\v 13 And she answered, “If it pleases the king, may power be granted to the Jews, so as to do tomorrow in Susa just as they have done today, and that the ten sons of Haman may be hung up the gallows.”\f + \fr 14:13 \ft The sons of Haman are “hung up” on the gallows, not “hanged” on the gallows. The word hanged implies that someone is being put to death, whereas hung merely means suspended. In the next verse, the edict and the sons of Haman are both hung up, each as a kind of public notice of these events.\f*
 \p
 \v 14 And the king instructed that it should be so done. And immediately the edict was hung up in Susa, and the ten sons of Haman were hung up.
 \p
 \v 15 On the fourteenth day of the month Adar, the Jews gathered themselves together, and they executed in Susa three hundred men, but they did not seize their belongings from them.
 \p
-\v 16 Moreover, throughout all the provinces which were subject to the king’s dominion, the Jews made a stand for their lives, and they executed their enemies and their persecutors, so much so that the number of those who were killed amounted to seventy-five thousand, and yet no one touched any of their belongings.
+\v 16 Moreover, throughout all the provinces which were subject to the king’s dominion, the Jews made a stand for their lives, and they executed their enemies and their persecutors, so much so that the number of those who were killed amounted to seventy-five thousand, and yet no one touched any of their belongings.\f + \fr 14:16 \ft The phrase “pro animabus suis steterunt” means that they stood up on behalf of their souls or their lives.\f*
 \p
 \v 17 Now the thirteenth day of the month Adar was the first day with all of the executions, and on the fourteenth day they ceased the killing. This day they established to be sacred, so that in all times hereafter they would be free for feasting, joyfulness, and celebration.
 \p
-\v 18 But, as for those who were carrying out the killings in the city of Susa, they turned to killing on the thirteenth and fourteenth day of the same month. But on the fifteenth day they ceased to attack. And for that reason they established that day as sacred, with feasting and with gladness.
+\v 18 But, as for those who were carrying out the killings in the city of Susa, they turned to killing on the thirteenth and fourteenth day of the same month. But on the fifteenth day they ceased to attack. And for that reason they established that day as sacred, with feasting and with gladness.\f + \fr 14:18 \ft The expression “turned to killing” (in cæde versati sunt) refers to the Jews turning the killing upon those who would have killed them. A day that was originally supposed to be a disastrous day for the Jews became a day of vindication for them, so that circumstances were turned around for them.\f*
 \p
-\v 19 But in truth, those Jews who were staying in unwalled towns and villages, appointed the fourteenth day of the month Adar for celebration and gladness, so as to rejoice on that day and send one another portions of their feasts and their meals.
+\v 19 But in truth, those Jews who were staying in unwalled towns and villages, appointed the fourteenth day of the month Adar for celebration and gladness, so as to rejoice on that day and send one another portions of their feasts and their meals.\f + \fr 14:19 \ft “Epularum” is food in the sense of feasting, special holiday foods. “Ciborum” is food in the sense of daily sustenance, that is, staple foods. They sent one another both types of foods.\f*
 \p
 \v 20 And so Mordecai wrote down all these things and sent them, composed in letters, to the Jews who were staying in all the king’s provinces, as much to those in nearby places as to those far away,
 \p
@@ -556,7 +591,7 @@
 \c 15
 \cl Esther 15
 \p
-\v 1 Truly, king Artaxerxes made all the land, and all the islands of the sea, tributaries.
+\v 1 Truly, king Artaxerxes made all the land, and all the islands of the sea, tributaries.\f + \fr 15:1 \ft Or, he made a tribute, i.e., he collected a tribute from all the lands and islands.\f*
 \p
 \v 2 And his strength and his authority, and the dignity and supremacy with which he exalted Mordecai, have been written in the books of the Medes and the Persians,
 \p
@@ -574,12 +609,13 @@
 \p
 \v 9 And my people is Israel, who cried out to the Lord, and the Lord brought salvation to his people, and he freed us from all evils, and he created great signs and portents among the nations.
 \p
-\v 10 And he commanded there to be two lots, one for the people of God and the other for all the nations.
+\v 10 And he commanded there to be two lots, one for the people of God and the other for all the nations.\f + \fr 15:10 \ft The command that there be two lots means that there would be two different fates or two different end results, one for the people of God and the other for the nations.\f*
 \p
-\v 11 And both lots arrived at the day appointed before God, even from that past time, for all peoples.
+\v 11 And both lots arrived at the day appointed before God, even from that past time, for all peoples.\f + \fr 15:11 \ft Both end results are completed at the same time: the vindication of the people of God and the punishment of their enemies.\f*
 \p
 \v 12 And the Lord remembered his people and had mercy on his inheritance.
 \p
 \v 13 And these days shall be observed in the month of Adar, on the fourteenth and fifteenth day of the same month, with all zealousness and joy, by the people gathered together into one union, throughout all the generations hereafter of the people of Israel.”
 \p
-\v 14 In the fourth year of the reigns of Ptolemy and Cleopatra, Dositheus, who was himself a priest and born of the Levites, and Ptolemy his son, brought this epistle of Purim, which they said was a translation by Lysimachus the son of Ptolemy in Jerusalem.
+\v 14 In the fourth year of the reigns of Ptolemy and Cleopatra, Dositheus, who was himself a priest and born of the Levites, and Ptolemy his son, brought this epistle of Purim, which they said was a translation by Lysimachus the son of Ptolemy in Jerusalem.\f + \fr 15:14 \ft The phrase “qui se Sacerdotem” is often translated as “who said he was a priest” or “who claimed he was a priest.” But the word “se” does not indicate that this man claimed something; it is merely a reflexive pronoun, a way of emphasizing that this man “was himself a priest.”\f*
+\mte9 The Book of Esther
