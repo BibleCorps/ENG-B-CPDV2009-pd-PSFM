@@ -4,9 +4,9 @@
 \h1 Title Page
 \toc1 Title page
 \imt1 The Sacred Bible
-\imt2 Catholic Public Domain Version
-\imt3 A new translation of the  Latin Vulgate, using the Challoner Douay Rheims as a guide,
-\imt5 by Ronald L. Conte Jr. The entire text and all related files are in the public domain.">
+\imt3 Catholic Public Domain Version
+\imt6 A new translation of the  Latin Vulgate, using the Challoner Douay Rheims as a guide,
+\imt6 by Ronald L. Conte Jr.
 \periph Publication Data
 \h0 Rights
 \h1 Rights
@@ -21,9 +21,9 @@
 \toc1 Dedication
 \toc2 Dedication
 \ib7
-\ipc Dedicated to the Author: God
+\imt6 Dedicated to the Author: God
 \ib
-\ipc \it O Holy Trinity, these are your words, not mine.\it*
+\imt6 \it O Holy Trinity, these are your words, not mine.\it*
 \periph Table of Contents
 \h0 Table of
 \h1 Contents
@@ -127,7 +127,7 @@
 \ip The Catholic Public Domain Version (CPDV) is intended to be an accurate, modern English, public domain version of the Bible, which is freely and widely available in electronic form, including over the internet. Please feel free to post this version for viewing, and to offer the files as a download, on your web site. The files are all public domain and free to download, use, and redistribute. However, you may not claim any copyright or other restriction on your posting of these files, even if you make some changes.
 \ip If anyone tries to take this version out of the public domain, may God prevent them and rebuke them. The Holy Bible should not be owned by anyone. No version of the Bible should be under copyright or other restriction. The Word of God should be freely and easily available to everyone.
 \b
-\ipc May God be ever blessed.
+\imt6 May God be ever blessed.
 \periph Introduction
 \h0 Introduction
 \h1 to the Catholic Public Domain Version
@@ -195,7 +195,7 @@
 \ip Some single person translations may reflect the personal view of the Faith of the translator, in addition or even in opposition to the wider view of the community of believers. Translators should make use of the insights of the Catholic Faith into the Scriptures when translating, as well as the translator’s own insights. But a careful balance must be struck that puts the understanding of the Church entirely above the understanding of the translator. If the text were to say, ‘translators are bad,’ then the translation should say, ‘translators are bad,’ it should not say, ‘translators are not so bad,’ or ‘translators are imperfect,’ or the like. On the other hand, if the translator is Roman Catholic, the translation should reflect the general Roman Catholic understanding of the text, and even the translator’s own unique Roman Catholic insights into the text: but without, in either case, adding to, subtracting from, or changing any of the meanings in the text. This is not a simple or easy task, but a group process can have much the same difficulty, on a larger scale.
 \ip Fortunately, there is no such thing as a definitive translation of the Bible. So a one person translation merely contributes to the sum total of all translations, versions, editions, and manuscripts. It should not ever become the be-all and end-all of Bible translations.
 \is4 Additional References
-\im In addition to the above mentioned versions of Scripture, a number of electronic and printed resources were used in the process of translating and editing this version of Scripture. Printed resources included Cassell’s Latin Dictionary (Wiley Publishing, New York, NY, 1968) and 501 Latin Verbs (Baron’s Educational Series, 1995). Electronic resources included the online thesaurus and dictionary at Reference.com (http://thesaurus.reference.com, http://dictionary.reference.com), a Latin English online dictionary called “Words by William Whitaker” on the Notre Dame web site (http://catholic.archives.nd.edu/cgi-bin/words.exe) as well as the downloaded program of the same name, my own site SacredBible.org with its online editions of the Clementine Vulgate, and the Wesley Center for Applied Theology for its online Wycliffe version of the Bible (http://wesley.nnu.edu/biblical_studies) and on rare occasion its online Tyndale version (http://wesley.nnu.edu/biblical_studies/tyndale/index.htm). Occasional use was also made of the site New Advent (http://www.newadvent.org/) for its online Catholic Encyclopedia, which was useful for looking up names of persons and places. The Google search engine was sometimes used to find resources or to check for modern-day usage of a possible phrasing in the English translation.
+\im In addition to the above mentioned versions of Scripture, a number of electronic and printed resources were used in the process of translating and editing this version of Scripture. Printed resources included Cassell’s Latin Dictionary (Wiley Publishing, New York, NY, 1968) and 501 Latin Verbs (Baron’s Educational Series, 1995). Electronic resources included the online thesaurus and dictionary at Reference.com (http:/ / thesaurus.reference.com, http:/ / dictionary.reference.com), a Latin English online dictionary called “Words by William Whitaker” on the Notre Dame web site (http:/ / catholic.archives.nd.edu/cgi-bin/words.exe) as well as the downloaded program of the same name, my own site SacredBible.org with its online editions of the Clementine Vulgate, and the Wesley Center for Applied Theology for its online Wycliffe version of the Bible (http:/ / wesley.nnu.edu/biblical_studies) and on rare occasion its online Tyndale version (http:/ / wesley.nnu.edu/biblical_studies/tyndale/index.htm). Occasional use was also made of the site New Advent (http:/ / www.newadvent.org/) for its online Catholic Encyclopedia, which was useful for looking up names of persons and places. The Google search engine was sometimes used to find resources or to check for modern-day usage of a possible phrasing in the English translation.
 \is4 Translator and Editor
 \im As noted above, the CPDV is a one person translation by Ronald L. Conte Jr. I am the sole translator and editor of the Catholic Public Domain Version of the Bible. This translation was made under God’s merciful Providence and Grace. However, no one but God assisted me in this work of translating and editing the CPDV. And so I alone am to blame for any of the faults of this translation. When I read other translations of the Bible into English, I find translation errors. In my own version, I cannot find the errors of translation that I know must be present. But if I were to hand the version over to someone else to proof-read or edit, their changes would also contain some errors. So I will not do so. I will keep this as a one person translation, but hand it over to the public domain, so that God’s Providence and Grace can continue to improve this work.
 \is4 A Public Domain Version
@@ -203,17 +203,24 @@
 \is4 A Vatican Approved Edition ?
 \im I don’t know if this will ever happen, but I would like to see a Vatican approved edition (VAE) of the CPDV. Currently, the Holy See has little control or influence over the English language translations of the Bible. If the Holy See were to adopt the CPDV, and alter it as the Cardinals and the Pope see fit, they could have a version of the Bible in English that the Holy See would control. It is to the Magisterium of the Church that the truths of Tradition and Scripture are entrusted. Yet the Holy See has not had significant influence or control over any Bible version or translation since Popes Sixtus V and Clement VIII put together the Clementine Vulgate version in Latin in the late 1500’s.
 \ip Having a Bible version controlled by the Holy See would be a significant advantage over the current situation, where the liberal USCCB controls the NAB version, and Protestant groups control numerous other versions (even the RSV Catholic Edition), and secular for-profit corporations own the copyright on the Jerusalem and New Jerusalem Bibles. But the Church is about to pass through a time of great suffering. So it may be some time before the Holy See has Bible versions in various languages over which it has the primary responsibility for editing and maintaining.
-\pr \sig by Ronald L. Conte Jr.\sig*
-\pr January 17, 2006
+\ib
+\im \em by Ronald L. Conte Jr.\em*
+\im \bd January 17, 2006\bd*
 \periph OT Title page
+\ib7
 \imt1 Old Testament
 \periph NT Title Page
+\ib7
 \imt1 New Testament
 \periph Gospels Title Page
+\ib7
 \imt1 The Four Gospels
 \periph Acts Title Page
+\ib7
 \imt1 The Acts of the Apostles
 \periph Epistles Title Page
+\ib7
 \imt1 The Epistles of the New Testament
 \periph The Revelation Title Page
+\ib7
 \imt1 The Apocalypse of St. John
