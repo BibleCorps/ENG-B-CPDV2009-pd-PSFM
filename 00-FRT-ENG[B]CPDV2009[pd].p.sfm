@@ -2,7 +2,8 @@
 \ide UTF-8
 \rem version 20180109
 \h1 Title Page
-\toc1 Title page
+\toc2 Title page
+\toc3 Title
 \imt1 The Sacred Bible
 \imt3 Catholic Public Domain Version
 \imt6 A new translation of the  Latin Vulgate, using the Challoner Douay Rheims as a guide,
@@ -10,8 +11,8 @@
 \periph Publication Data
 \h0 Rights
 \h1 Rights
-\toc1 Statement of Rights
 \toc2 Rights
+\toc3 Rights
 \im The Sacred Bible, Catholic Public Domain Version.
 \im The Holy Bible, Catholic Public Domain Version. Original Edition. Ronald L. Conte Jr., translator and editor.
 \imi This entire text, including all html and css code, is in the public domain. No copyright.
@@ -24,6 +25,9 @@
 \imt6 Dedicated to the Author: God
 \ib
 \imt6 \it O Holy Trinity, these are your words, not mine.\it*
+\ib5
+\imt5 A Prayer Before the Reading of any Part of the Holy Scripture.
+\iq Come, O Holy Spirit, fill the hearts and minds of thy faithful servants, and inflame them with the fire of thy divine love. Let us pray.—God, who by the inspiration of the Holy Ghost, didst instruct the hearts of thy faithful servants ; grant us in the same Spirit, to discern what is right, and enjoy his comfort for ever: Through our Lord Jesus Christ, who livcth and reigneth one God, with the and the same Spirit, world without end. Amen.
 \periph Table of Contents
 \h0 Table of
 \h1 Contents
@@ -31,6 +35,7 @@
 \toc2 Contents
 \imt3 The Sacred Bible
 \imt4 Catholic Public Domain Version, Original Edition
+\toc0 The order of the books of the Old Testament.
 \rem Old Testament
 \rem Published order of Books
 \rem Genesis
@@ -204,7 +209,7 @@
 \im I don’t know if this will ever happen, but I would like to see a Vatican approved edition (VAE) of the CPDV. Currently, the Holy See has little control or influence over the English language translations of the Bible. If the Holy See were to adopt the CPDV, and alter it as the Cardinals and the Pope see fit, they could have a version of the Bible in English that the Holy See would control. It is to the Magisterium of the Church that the truths of Tradition and Scripture are entrusted. Yet the Holy See has not had significant influence or control over any Bible version or translation since Popes Sixtus V and Clement VIII put together the Clementine Vulgate version in Latin in the late 1500’s.
 \ip Having a Bible version controlled by the Holy See would be a significant advantage over the current situation, where the liberal USCCB controls the NAB version, and Protestant groups control numerous other versions (even the RSV Catholic Edition), and secular for-profit corporations own the copyright on the Jerusalem and New Jerusalem Bibles. But the Church is about to pass through a time of great suffering. So it may be some time before the Holy See has Bible versions in various languages over which it has the primary responsibility for editing and maintaining.
 \ib
-\im \em by Ronald L. Conte Jr.\em*
+\im \em Ronald L. Conte Jr.\em*
 \im \bd January 17, 2006\bd*
 \periph OT Title page
 \ib7
