@@ -4,11 +4,12 @@
 \toc1 The Book of Psalms
 \toc2 Psalms
 \toc3 Ps
+\toc4 150
 \mt1 The Book of Psalms
 \c 1
-\cl Psalm 1
+\cl Psalm 1\f + \fr 1:0 \ft Note about the numbering of the Psalms: The numbering of the Psalms used in the CPDV is the same as the numbering in the Sixtus V and Clement VIII Latin Vulgate, with a few minor changes. The more typical numbering seen in many other versions of the Bible in English is according to the Hebrew text. Also note that, in translating the Psalms, I have decided to choose accuracy and a more literal rendering, over a looser and more poetic phrasing of the text. The reason is that a looser translation, obscures some of the meaning.\f*
 \p
-\v 1 Blessed is the man who has not followed the counsel of the impious, and has not remained in the way of sinners, and has not sat in the chair of pestilence.\f + \fr 1:1 \ft Note about the numbering of the Psalms: The numbering of the Psalms used in the CPDV is the same as the numbering in the Sixtus V and Clement VIII Latin Vulgate, with a few minor changes. The more typical numbering seen in many other versions of the Bible in English is according to the Hebrew text.\f* \f + \fr 1:1 \ft Or, more loosely translated: “Blessed is the man who has not followed the advice of the impious, and has not stood in the street among sinners, and has not sat in the company of complainers.”\f*\f + \fr 1:1 \ft The Douay-Rheims notes are particularly insightful on this verse: “Blessed [Note: [a] He is in the right way to eternal happiness. ] is the man, that hath [Note: [b] not consented to evil suggestions. ] not gone in the counsel of the impious, & hath [Note: [c] not continued in sin. ] not stood in the way of sinners, and hath [Note: [d] not finally persisted in wicked life. ] not sit in the chair of pestilence:”\f*\f + \fr 1:1 \ft Note that, in translating the Psalms, I have decided to choose accuracy and a more literal rendering, over a looser and more poetic phrasing of the text. The reason is that a looser translation, obscures some of the meaning.\f*
+\v 1 Blessed\f \fr 1:1 \fk blessed \ft  He is in the right way to eternal happiness. [Note from DR]\f* is the man who has not followed the counsel of the impious,\f \fr 1:1 \fk not ... impious \ft not consented to evil suggestions.[DR]\f* and has not remained in the way of sinners,\f \fr 1:1 \fk not ... sinners \ft not continued in sin.[DR]\f* and has not sat in the chair of pestilence.\f + \fr 1:1 not ... pestilence \ft not finally persisted in wicked life.[DR]\f*\f + \fr 1:1 \ft Or, more loosely translated: “Blessed is the man who has not followed the advice of the impious, and has not stood in the street among sinners, and has not sat in the company of complainers.”\f*
 \p
 \v 2 But his will is with the law of the Lord, and he will meditate on his law, day and night.
 \p
@@ -70,7 +71,7 @@
 \c 4
 \cl Psalm 4
 \d
-\v 1 In parts according to verses. A Psalm of David.\f + \fr 4:1 \ft Usually, ‘finem’ refers to the end or limit of something, but the root of the word is related to ‘findo,’ which means to divide into parts. Thus the word ‘finem’ typically means ‘the last part.’ But, in the context of the Psalms, which were in ancient times, as they are still today, sung or chanted, the phrase ‘in finem’ can mean ‘in parts.’ This expression refers to a song that is divided into different singing parts (e.g. a duet, or a song with parts for a chorus and parts for individuals), or to a poem that is divided into different speaking parts.\f*\f + \fr 4:1 \ft However, there is a more meaningful translation of ‘in finem.’ The notes of the Douay-Rheims version interpret ‘in finem’ (‘unto the end’) to refer to the New Testament: ‘pertaining unto the new Testament.’ And the Wycliffe version translates ‘in finem’ as ‘for victories,’ i.e. pertaining to a successful end. Thus, ‘in finem’ in this translation is usually rendered as ‘unto the end,’ since this translation makes the most fulfilling meanings most accessible.\f*\f + \fr 4:1 \ft The word ‘carminibus’ refers to a card for working with wool or flax. It is a card with many divisions or parts. In this context, ‘carminibus’ refers to the division of the psalm into verses. In ancient times, the Bible was not divided into verses. Perhaps the first application of this concept to the Bible was in the psalms, which had to be divided into verses, because it is poetry and because it is sung.\f*
+\v 1 In parts\f + \fr 4:1 \fk in parts \ft Usually, ‘finem’ refers to the end or limit of something, but the root of the word is related to ‘findo,’ which means to divide into parts. Thus the word ‘finem’ typically means ‘the last part.’ But, in the context of the Psalms, which were in ancient times, as they are still today, sung or chanted, the phrase ‘in finem’ can mean ‘in parts.’ This expression refers to a song that is divided into different singing parts (e.g. a duet, or a song with parts for a chorus and parts for individuals), or to a poem that is divided into different speaking parts. However, there is a more meaningful translation of ‘in finem.’ The notes of the Douay-Rheims version interpret ‘in finem’ (‘unto the end’) to refer to the New Testament: ‘pertaining unto the new Testament.’ And the Wycliffe version translates ‘in finem’ as ‘for victories,’ i.e. pertaining to a successful end. Thus, ‘in finem’ in this translation is usually rendered as ‘unto the end,’ since this translation makes the most fulfilling meanings most accessible.\f* according to verses.\f + \fr 4:1 \ft The word ‘carminibus’ refers to a card for working with wool or flax. It is a card with many divisions or parts. In this context, ‘carminibus’ refers to the division of the psalm into verses. In ancient times, the Bible was not divided into verses. Perhaps the first application of this concept to the Bible was in the psalms, which had to be divided into verses, because it is poetry and because it is sung.\f* A Psalm of David.
 \p
 \v 2 When I called upon him, the God of my justice heeded me. In tribulation, you have enlarged me. Have mercy on me, and heed my prayer.
 \p
@@ -1645,7 +1646,8 @@
 \c 49
 \cl Psalm 49 \ca (50)\ca*
 \d
-\v 1 A Psalm of Asaph. The God of gods, the Lord has spoken, and he has called the earth, from the rising of the sun even to its setting,
+\v 1 A Psalm of Asaph.
+\p The God of gods, the Lord has spoken, and he has called the earth, from the rising of the sun even to its setting,
 \p
 \v 2 from Zion, the brilliance of his beauty.
 \p
@@ -5233,7 +5235,7 @@
 \v 8 Lead my soul out of confinement in order to confess your name. The just are waiting for me, until you repay me.
 \c 142
 \cl Psalm 142 \ca (143)\ca*
-\p
+\d
 \v 1 A Psalm of David, when his son Absalom was pursuing him.
 \p O Lord, hear my prayer. Incline your ear to my supplication in your truth. Heed me according to your justice.
 \p

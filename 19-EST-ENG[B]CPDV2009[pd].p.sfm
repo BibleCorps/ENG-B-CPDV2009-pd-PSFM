@@ -4,12 +4,13 @@
 \toc1 The Book of Esther
 \toc2 Esther
 \toc3 Est
+\toc4 15
 \mt1 The Book of Esther
-\imt4 Editor's Note
+\imt4 Editor’s Note
 \imi The Book of Esther was originally written in Hebrew. Later, those Jewish synagogues which used Greek as their written language not only translated the Jewish Scriptures into Greek, but added additional material to Esther (and to Daniel). The Catholic Church accepts both the Hebrew and Greek versions of Esther as truly inspired by God.
 \ipi In some translations of Esther, the Hebrew text is presented first, then the Greek additions are grouped together at the end of the book. The text is then numbered in 16 chapters, with the Greek additions numbered from 10:4 to 16:24. However, separating out the Greek additions and grouping them at the end takes those additions out of their natural order in the narrative.
 \ipi In other versions, the Greek text is integrated with the Hebrew text, so that events are placed in their proper order within the narrative. Some of these versions keep the same numbering, so that the Book begins with 11:2 to 11:12, then chapter 12 follows, then chapters 1 and 2, and so on. Other versions number the chapters with letters as well as numbers, so that Esther begins with chapter A, then chapter B, then chapters 1 and 2, et cetera. Still other versions number the material in ten chapters, from 1 to 10, but with the integrated material from the Greek given verses numbers using numbers and letters, such as verses 1a, 1b, 1c, 1d, and verses 17, 17a, 17b ... 17x, 17y, 17z, 17aa, 17bb, etc. These numbering systems are not very useful.
-\ipi The catholic public domain version (CPDV) of the Book of Esther, as well as the corresponding edition of the Latin Vulgate, keeps the text in the usual narrative order (where the Greek text is integrated with the Hebrew text) and numbers the chapters and verses in that same order. This gives every chapter a different number than in the original numbering. Many verses retain the same verse number, even though their chapter number has changed. This new numbering system (with minor differences) is also used on the Greek version of the Book of Esther in the World English Bible.
+\ipi The Catholic Public Domain Version (CPDV) of the Book of Esther, as well as the corresponding edition of the Latin Vulgate, keeps the text in the usual narrative order (where the Greek text is integrated with the Hebrew text) and numbers the chapters and verses in that same order. This gives every chapter a different number than in the original numbering. Many verses retain the same verse number, even though their chapter number has changed. This new numbering system (with minor differences) is also used on the Greek version of the Book of Esther in the World English Bible.
 \ipi The revised numbering of the Book of Esther has 15 chapters and 274 verses; whereas the prior numbering (in the Latin Vulgate) had 16 chapters and 274 verses.
 \ib
 \imt6  Verse numbering compared: Clementine to CPDV
@@ -17,7 +18,7 @@
 \tr \tc1 12:1 - 12:6  \tc2 becomes 2:1 - 2:6
 \tr \tc1 1:1 - 1:22  \tc2 becomes 3:1 - 3:22
 \tr \tc1 2:1 - 2:23  \tc2 becomes 4:1 - 4:23
-\tr \tc1 3:1 - 3:13  \tc2 becomes 5:1 - 5:13\f + \fr \fk 5:13 \ft The last phrase of 5:13 incorporates verse 12:6b from the Clementine Latin Vulgate text by adding "even their necessities." The Latin text changes from: "et bona eorum diriperent." (end of 3:13) and "Et diripuerunt bona, vel substantias eorum." (12:6b) to: "et diriperent bona, vel substantias eorum."\f*
+\tr \tc1 3:1 - 3:13  \tc2 becomes 5:1 - 5:13\f + \fr \fk 5:13 \ft The last phrase of 5:13 incorporates verse 12:6b from the Clementine Latin Vulgate text by adding “even their necessities.” The Latin text changes from: “et bona eorum diriperent.” (end of 3:13) and ”Et diripuerunt bona, vel substantias eorum.” (12:6b) to: “et diriperent bona, vel substantias eorum.”\f*
 \tr \tc1 13:1 - 13:7  \tc2 becomes 6:1 - 6:7
 \tr \tc1 3:14 - 3:15  \tc2 becomes 6:8 - 6:9
 \tr \tc1 4:1 - 4:9  \tc2 becomes 7:1 - 7:9
@@ -26,7 +27,7 @@
 \tr \tc1 4:12 - 4:13  \tc2 becomes  7:14\f + \fr \fk 7:14 \ft Verses 4:12 - 4:13 from the Clementine Latin Vulgate are combined as 7:14 in the CPDV.\f*
 \tr \tc1 4:14  \tc2 becomes 7:15
 \tr \tc1 15:1  \tc2 becomes 7:16\f + \fr \fk 7:16 \ft Verse 15:1 (7:16 in the CPDV) is often omitted from English versions of Esther, even though it is consistently found in the Clementine Latin Vulgate. It has been placed here, in its logical position within the narrative.\f*
-\tr \tc1 4:15 - 4:17  \tc2 becomes 7:17 - 7:19\f + \fr \fk 7:19 \ft "Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther." is found before 13:8 - 14:19 in the Clementine Latin Vulgate, but it is merely a rephrasing of verse 4:17 (i.e. 7:19): "Ivit itaque Mardochæus, et fecit omnia, quæ ei Esther præceperat."\f*
+\tr \tc1 4:15 - 4:17  \tc2 becomes 7:17 - 7:19\f + \fr \fk 7:19 \ft “Pergensque Mardochæus, fecit omnia, quæ ei mandaverat Esther.” is found before 13:8 - 14:19 in the Clementine Latin Vulgate, but it is merely a rephrasing of verse 4:17 (i.e. 7:19): “Ivit itaque Mardochæus, et fecit omnia, quæ ei Esther præceperat.”\f*
 \tr \tc1 13:8 - 13:18  \tc2 becomes 7:20 - 7:30
 \tr \tc1 14:1 - 14:19  \tc2 becomes 8:1 - 8:19
 \tr \tc1 15:4 - 15:19  \tc2 becomes 9:1 - 9:16
@@ -241,9 +242,9 @@
 \p
 \v 9 And Hathach returned and informed Esther of all that Mordecai had said.
 \p
-\v 10 “Remember,” he said, “the days of your lowliness, how you were nurtured as if in my hand, because Haman, who is second after the king, has spoken against us to death.\f + \fr 7:10 \ft Latin has no quotation marks, so quotes are understood by the context. Sometimes, when the context does not make it clear that the sentence is a quote, the word “inquit” is added, meaning “he said.” Here verses 7:10 – 7:11 are from verses 15:2 – 15:3 in the Latin Vulgate. These verses are found in the Greek version of the text, but not the Hebrew.\f*\f + \fr 7:10 \ft The phrase “dierum humilitatis tuæ” refers to the time when Esther was a lowly commoner, not the queen of the Persian empire. The phrase “nutrita sis in manu mea” refers to the time when Esther was raised or nurtured by Mordecai. The word “sis” indicates a figure of speech: “as if in my hand.”\f*
+\v 10 “Remember,” he said, “the days of your lowliness, how you were nurtured as if in my hand, because Haman, who is second after the king, has spoken against us to death.\f + \fr 7:10 \ft The phrase “dierum humilitatis tuæ” refers to the time when Esther was a lowly commoner, not the queen of the Persian empire. The phrase “nutrita sis in manu mea” refers to the time when Esther was raised or nurtured by Mordecai. The word “sis” indicates a figure of speech: “as if in my hand.”\f*
 \p
-\v 11 And you must call upon the Lord, and speak with the king on our behalf, and free us from death.”
+\v 11 And you must call upon the Lord, and speak with the king on our behalf, and free us from death.”\f + \fr 7:11 \ft Latin has no quotation marks, so quotes are understood by the context. Sometimes, when the context does not make it clear that the sentence is a quote, the word “inquit” is added, meaning “he said.” Here verses 7:10 – 7:11 are from verses 15:2 – 15:3 in the Latin Vulgate. These verses are found in the Greek version of the text, but not the Hebrew.\f*
 \p
 \v 12 She answered him, and ordered him say to Mordecai:
 \p

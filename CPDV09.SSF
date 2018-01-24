@@ -1,0 +1,33 @@
+﻿<ScriptureText>
+  <Versification>3</Versification>
+  <CreatedWithPTW6>T</CreatedWithPTW6>
+  <Name>CPDV09</Name>
+  <Encoding>65001</Encoding>
+  <TranslationInfo>Standard::</TranslationInfo>
+  <Language>English</Language>
+  <DefaultFont>PT Serif</DefaultFont>
+  <DefaultFontSize>10</DefaultFontSize>
+  <FileNamePrePart />
+  <FileNamePostPart>CPDV09.SFM</FileNamePostPart>
+  <FileNameBookNameForm>41MAT</FileNameBookNameForm>
+  <FileNameChapterNumberForm />
+  <StyleSheet>usfm.sty</StyleSheet>
+  <ChapterMarker>c</ChapterMarker>
+  <VerseMarker>v</VerseMarker>
+  <AssociatedLexicalProject />
+  <FullName>Catholic Public Doman Version 2009</FullName>
+  <Copyright />
+  <Directory>/home/michael/ParatextProjects/CPDV09</Directory>
+  <LanguageIsoCode />
+  <EthnologueCode />
+  <BiblicalTermsListSetting>Major::BiblicalTerms.xml</BiblicalTermsListSetting>
+  <Editable>T</Editable>
+  <NeedsEnglishLanguageFix>No</NeedsEnglishLanguageFix>
+  <NeedsPortugueseLanguageFix>No</NeedsPortugueseLanguageFix>
+  <InitialImportBooksDirectory>/home/michael/Google/1-Editing/English/B-Bibles/ENG[B]CPDV2009[PD]/ENG-B-CPDV2009-pd-PSFM</InitialImportBooksDirectory>
+  <Guid>bca1c6f8df740eb6ac9eb659964992825529afaf</Guid>
+  <BooksPresent>111111111111111111111111111111111111111111111111111111111111111111110001000011001000000000000000000100000000010000000000000</BooksPresent>
+  <RepeatableWords />
+  <NonRepeatableWords />
+  <Naming PrePart="" PostPart="CPDV09.SFM" BookNameForm="41MAT" ChapterNumberForm="" />
+</ScriptureText>
