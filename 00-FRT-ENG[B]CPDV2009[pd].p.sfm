@@ -1,6 +1,9 @@
 \id FRT ENG (p.sfm) - CPDV Catholic Public Domain Version 2009
 \ide UTF-8
 \rem version 20180109
+\rem Presentation Page
+\
+\periph Title Page
 \h1 Title Page
 \toc2 Title page
 \toc3 Title
@@ -14,8 +17,13 @@
 \toc2 Rights
 \toc3 Rights
 \im The Sacred Bible, Catholic Public Domain Version.
-\im The Holy Bible, Catholic Public Domain Version. Original Edition. Ronald L. Conte Jr., translator and editor.
-\imi This entire text, including all html and css code, is in the public domain. No copyright.
+\im The Holy Bible, Catholic Public Domain Version (CPDV). 2018 Edition. Ronald L. Conte Jr., translator and editor.
+\imi The entire text of the CPDV Bible is in the public domain. No copyright.
+\imi The text of extrabiblical supporting documents, except as follows, is in the public domain. 
+\imi All maps are copyright SIL International, and used by permission. For any use, see the SIL graphics license at 
+\ili Three Year Cycle of Readings taken from 
+\ili Dogmatic Constitution of the first Vatican Council taken from 'The Vatican Council and Its Definitions', Translated by Cardinal Henry Edward Manning, Roman Catholic Archbishop of Westminster, (New York: D.,  J. Sadlier, 1871). This text is out of copyright and in the public domain; edited by Ronald L. Conte Jr.]
+\imi 
 \periph Dedication
 \h0 Dedication
 \h1 Dedication
@@ -36,84 +44,112 @@
 \imt3 The Sacred Bible
 \imt4 Catholic Public Domain Version, Original Edition
 \toc0 The order of the books of the Old Testament.
-\rem Old Testament
 \rem Published order of Books
-\rem Genesis
-\rem Exodus
-\rem Leviticus
-\rem Numbers
-\rem Deuteronomy
-\rem Joshua
-\rem Judges
-\rem Ruth
-\rem 1 Samuel
-\rem 2 Samuel
-\rem 1 Kings
-\rem 2 Kings
-\rem 1 Chronicles
-\rem 2 Chronicles
-\rem Ezra
-\rem Nehemiah
-\rem Tobit
-\rem Judith
-\rem Esther
-\rem Job
-\rem Psalms
-\rem Proverbs
-\rem Ecclesiastes
-\rem Song of Songs
-\rem Wisdom
-\rem Sirach
-\rem Isaiah
-\rem Jeremiah
-\rem Lamentations
-\rem Baruch
-\rem Ezekiel
-\rem Daniel
-\rem Hosea
-\rem Joel
-\rem Amos
-\rem Obadiah
-\rem Jonah
-\rem Micah
-\rem Nahum
-\rem Habakkuk
-\rem Zephaniah
-\rem Haggai
-\rem Zechariah
-\rem Malachi
-\rem 1 Maccabees
-\rem 2 Maccabees
+
+\rem Old Testament
+\rem Intro to the Law
+\rem Genesis, Exodus, Leviticus, Numbers, Deuteronomy
+\rem Intro to the Historical Books
+\rem Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Tobit, Judith, Esther
+\rem Intro to the Wisdom Books
+\rem Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Wisdom, Sirach
+\rem Intro to the Prophetic Books
+\rem Isaiah, Jeremiah, Lamentations, Baruch, Ezekiel, Daniel, 
+\rem Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi, 1 Maccabees, 2 Maccabees
 \rem New Testament
-\rem The Four Gospels
-\rem Matthew
-\rem Mark
-\rem Luke
-\rem John
+\rem Intro to the Gospels
+\rem Matthew, Mark, Luke, John
 \rem Acts of the Apostles
-\rem Romans
-\rem 1 Corinthians
-\rem 2 Corinthians
-\rem Galatians
-\rem Ephesians
-\rem Philippians
-\rem Colossians
-\rem 1 Thessalonians
-\rem 2 Thessalonians
-\rem The Epistles
-\rem 1 Timothy
-\rem 2 Timothy
-\rem Titus
-\rem Philemon
-\rem Hebrews
-\rem James
-\rem 1 Peter
-\rem 2 Peter
-\rem 1 John
-\rem 2 John
-\rem 3 John
-\rem Jude
+\rem Intro to the Letters
+\rem Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, 2 Thessalonians
+\rem 1 Timothy, 2 Timothy, Titus, Philemon,
+\rem Hebrews, James, 1 Peter, 2 Peter, 1 John, 2 John, 3 John, Jude
 \rem Revelation
+\rem 3 year Cycle of Readings
+\rem Celebration of the Eucharist
+\rem Maps
+\periph Dogmatic Constitution
+\imt4  First Vatican Council
+\imt4 1869 to 1870 A.D. under Pope Blessed Pius IX
+\imt4 The 20th of 21 Ecumenical Councils 
+\imt1 Dogmatic constitution on the Catholic faith 
+\imt2 DEI FILIUS 
+\im Pius, Bishop, Servant Of The Servants Of God, With The Approval Of The Sacred Council, For Perpetual Remembrance 
+\ib 
+\im Our Lord Jesus Christ, the Son of God, and Redeemer of Mankind, before returning to his heavenly Father, promised that He would be with the Church Militant on earth all days, even to the consummation of the world. Therefore, He has never ceased to be present with His beloved Spouse, to assist her when teaching, to bless her when at work, and to aid her when in danger. And this His salutary providence, which has been constantly displayed by other innumerable benefits, has been most manifestly proved by the abundant good results which Christendom has derived from Ecumenical Councils, and particularly from that of Trent, although it was held during evil times. 
+\ip For, as a consequence, the sacred doctrines of the faith have been defined more closely, and set forth more fully, errors have been condemned and restrained, ecclesiastical discipline has been restored and more firmly secured, the love of learning and of piety has been promoted among the clergy, colleges have been established to educate youth for the sacred warfare, and the morals of the Christian world have been renewed by the more accurate training of the faithful, and by the more frequent use of the sacraments. Moreover, there has resulted a closer communion of the members with the visible head, an increase of vigor in the whole mystical body of Christ, the multiplication of religious congregations and of other institutions of Christian piety, and such ardor in extending the kingdom of Christ throughout the world, as constantly endures, even to the sacrifice of life itself. 
+\ip But while we recall with due thankfulness these and other signal benefits which the Divine mercy has bestowed on the Church, especially by the last Ecumenical Council, we cannot restrain our bitter sorrow for the grave evils, which are principally due to the fact that the authority of that sacred Synod has been contemned [i.e. scorned], or its wise decrees neglected, by many. 
+\ip No one is ignorant that the heresies proscribed by the Fathers of Trent, by which the divine Magisterium of the Church was rejected, and all matters regarding religion were surrendered to the judgment of each individual, gradually became dissolved into many sects, which disagreed and contended with one another, until at length not a few lost all faith in Christ. Even the Holy Scriptures, which had previously been declared the sole source and judge of Christian doctrine, began to be held no longer as Divine, but to be ranked among the fictions of mythology. 
+\ip Then there arose and spread, exceedingly widely throughout the world, that doctrine of rationalism, or naturalism, which opposes itself in every way to the Christian religion as a supernatural institution, and works with the utmost zeal in order that, after Christ, our sole Lord and Savior, has been excluded from the minds of men, and from the life and moral acts of nations, the reign of what they call pure reason or nature may be established. And after forsaking and rejecting the Christian religion, and denying the true God and His Christ, the minds of many have sunk into the abyss of Pantheism, Materialism, and Atheism, until, denying rational nature itself, and every sound rule of right, they labor to destroy the deepest foundations of human society. 
+\ip Unhappily, it has yet further come to pass that, while this impiety prevailed on every side, many even of the children of the Catholic Church have strayed from the path of true piety, and by the gradual diminution of the truths they held, the Catholic understanding became weakened in them. For, led away by various and strange doctrines, utterly confusing nature and grace, human science and Divine faith, they are found to deprave the true sense of the doctrines which our Holy Mother Church holds and teaches, and to endanger the integrity and the soundness of the faith. 
+\ip Considering these things, how can the Church fail to be deeply stirred? For, even as God wills all men to be saved, and to arrive at the knowledge of the truth; even as Christ came to save what had perished, and to gather together the children of God who had been dispersed, so the Church, constituted by God the Mother and Teacher of nations, knows its own office to be a debtor to all, and is ever ready and watchful to raise the fallen, to support those who are falling, to embrace those who return, to confirm the good and to carry them on to better things. Hence, it can never forbear from witnessing to and proclaiming the truth of God, which heals all things, knowing the words addressed to it: "My Spirit that is in you, and my words that I have put in your mouth, shall not depart out of your mouth, henceforth and forever" (Isaiah 59:21). 
+\ip We, therefore, following the footsteps of our predecessors, have never ceased, as becomes our supreme Apostolic office, from teaching and defending Catholic truth, and condemning doctrines of error. And now, with the Bishops of the whole world assembled round us, and judging with us, congregated by our authority, and in the Holy Spirit, in this Ecumenical Council, we, supported by the Word of God written and handed down as we received it from the Catholic Church, preserved with sacredness and set forth according to truth, -- have determined to profess and declare the salutary teaching of Christ from this Chair of Peter, and in sight of all, proscribing and condemning, by the power given to us of God, all errors contrary thereto. 
+\ib
+\imt2 Chapter I.
+\imt1 On God, the Creator of all things 
+\im The Holy Catholic Apostolic Roman Church believes and confesses that there is one true and living God, Creator and Lord of heaven and earth, Almighty, Eternal, Immense, Incomprehensible, Infinite in intelligence, in will, and in all perfection, who, as being one, sole, absolutely simple and immutable spiritual substance, is to be declared as really and essentially distinct from the world, of supreme beatitude in and from Himself, and ineffably exalted above all things which exist, or are conceivable, except Himself. 
+\ip This one only true God, of His own goodness and almighty power, not for the increase or acquirement of His own happiness, but to manifest His perfection by the blessings which He bestows on creatures, and with absolute freedom of Counsel, created out of nothing, from the very first beginning of time, both the spiritual and the corporeal creature, to wit, the angelical and the mundane, and afterwards the human creature, as partaking, in a sense, of both, consisting of spirit and of body. 
+\ip God protects and governs by His Providence all things which He has made, "reaching from end to end mightily and ordering all things sweetly" (Wisdom 8:1). For "all things are bare and open to His eyes" (Heb. 4:13), even those which are yet to be, by the free action of creatures. 
+\ib
+\imt2 Chapter II.
+\imt1 ON REVELATION 
+\im The same Holy Mother Church holds and teaches that God, the beginning and end of all things, may be certainly known by the natural light of human reason, by means of created things; "for the invisible things of Him from the creation of the world are clearly seen, being understood by the things that are made" (Romans 1:20), but that it pleased His wisdom and bounty to reveal Himself, and the eternal decrees of His will, to mankind by another and a supernatural way: as the Apostle says, "God, having spoken on diverse occasions, and in many ways, in times past, to the fathers by the prophets; last of all, in these days, has spoken to us by His Son" (Hebrews 1:1-2). 
+\ip It is to be ascribed to this Divine Revelation, that such truths among things Divine as of themselves are not beyond human reason, can, even in the present condition of mankind, be known by everyone with facility, with firm assurance, and with no admixture of error. This, however, is not the reason why revelation is to be called absolutely necessary; but because God of His infinite goodness has ordained man to a supernatural end, viz., to be a sharer of Divine blessings which utterly exceed the intelligence of the human mind; for "eye hath not seen, nor ear heard, neither has it entered into the heart of man, what things God has prepared for those who love Him" (1 Cor. 2:9). 
+\ip Further, this supernatural revelation, according to the universal belief of the Church, declared by the Sacred Synod of Trent, is contained in the written books and unwritten traditions which have come down to us, having been received by the Apostles from the mouth of Christ himself, or from the Apostles themselves, by the dictation of the Holy Spirit, have been transmitted, as it were, from hand to hand \f \fr Transmitted ... hand to hand: \ft Canons and Decrees of the Council of Trent, Session the Fourth. Decree concerning the Canonical Scriptures.\f* And these books of the Old and New Testament are to be received as sacred and canonical, in their integrity, with all their parts, as they are enumerated in the decree of the said Council, and are contained in the ancient Latin edition of the Vulgate. These the Church holds to be sacred and canonical, not because, having been carefully composed by mere human industry, they were afterwards approved by her authority, nor merely because they contain revelation, with no admixture of error, but because, having been written by the inspiration of the Holy Spirit, they have God for their author, and have been delivered as such to the Church herself. 
+\ip And as the things which the Holy Synod of Trent decreed for the good of souls concerning the interpretation of Divine Scripture, in order to curb rebellious spirits, have been wrongly explained by some, We, renewing the said decree, declare this to be their sense, that, in matters of faith and morals, appertaining to the building up of Christian doctrine, that is to be held as the true sense of Holy Scripture which our Holy Mother Church has held and holds, to whom it belongs to judge the true sense and interpretation of the Holy Scripture; and therefore that it is permitted to no one to interpret the Sacred Scripture contrary to this sense, nor, likewise, contrary to the unanimous consent of the Fathers. 
+\ib
+\imt2 CHAPTER III.
+\imt1 ON FAITH 
+\im Man being wholly dependent upon God, as upon his Creator and Lord, and created reason being absolutely subject to uncreated truth, we are bound to yield to God, by faith in His revelation, the full obedience of our intelligence and will. And the Catholic Church teaches that this faith, which is the beginning of man's salvation, is a supernatural virtue, whereby, inspired and assisted by the grace of God, we believe that the things which He has revealed are true; not because of the intrinsic truth of the things, viewed by the natural light of reason, but because of the authority of God Himself who reveals them, and Who can neither be deceived nor deceive. For faith, as the Apostle testifies, is "the substance of things hoped for, the conviction of things not apparent." (Hebrews 11:1). 
+\ip Nevertheless, in order that the obedience of our faith might be in harmony with reason, God willed that, to the interior help of the Holy Spirit, there should be joined exterior proofs of His revelation; to wit, divine facts, and especially miracles and prophecies, which, as they manifestly display the omnipotence and infinite knowledge of God, are most certain proofs of His Divine Revelation, adapted to the intelligence of all men. Therefore, both Moses and the Prophets, and most especially, Christ our Lord Himself, showed forth many and most evident miracles and prophecies; and about the Apostles we read: "But they, going forth, preached everywhere, with the Lord cooperating and confirming the word with the signs that followed" (Mark 16:20). And again, it is written: "We have the more firm prophetic word, to which you would do well to attend, as to a light shining within a dark place." (2 Peter 1:19). 
+\ip But though the assent of faith is by no means a blind action of the mind, still no man can assent to the Gospel teaching, as is necessary to obtain salvation, without the illumination and inspiration of the Holy Spirit, who gives to all men sweetness in assenting to and believing in the truth.\f + \fr Truth: \ft Canons of the Second Council of Orange, confirmed by Pope Boniface II, A.D. 529, against the Semipelagians, Canon vii. See Denzinger's Enchiridion Symbolorum, (Wurzburg, 1854), p. 50. \f* Therefore, Faith itself, even when it does not work by charity, is in itself a gift of God, and the act of faith is a work appertaining to salvation, by which man yields voluntary obedience to God Himself, by assenting to and co-operating with His grace, which he is able to resist. 
+\ip Further, all those things are to be believed with divine and catholic faith which are contained in the Word of God, written or handed down, and which the Church, either by a solemn judgment, or by her ordinary and universal Magisterium, proposes for belief as having been Divinely-revealed. 
+\ip And since, without faith, it is impossible to please God, and to attain to the fellowship of His children, therefore without faith no one has ever attained justification, nor will anyone obtain eternal life, unless be shall have persevered in faith unto the end. And, that we may be able to satisfy the obligation of embracing the true faith and of constantly persevering in it, God has instituted the Church through His only begotten Son, and has bestowed on it the manifest marks of that institution, that it may be recognized by all men as the Guardian and Teacher of the revealed Word. 
+\ip For to the Catholic Church alone belong all those things, so many and so wonderful, which have been Divinely-established for the manifest trustworthiness of the Christian Faith. Of course, even now, the Church by Herself, with Her truly wonderful propagation, Her eminent holiness, and Her inexhaustible fruitfulness in all that is good, with Her Catholic unity and Her invincible stability, is a great and perpetual impetus of credibility, and an irrefutable witness of Her own Divine mission. 
+\ip And thus, like a standard lifted up before the nations (Isaiah 11:12), She both invites to Herself those who do not yet believe, and assures Her children that the faith they profess rests upon the most firm foundation. And Her testimony is efficaciously supported by a power from on high. For our most merciful Lord gives His grace, to stir up and to aid those who go astray, so that they may come to a knowledge of the truth; and, to those whom He has brought out of darkness into His own admirable light, He gives His grace to strengthen them to persevere in that light, forsaking no one who does not forsake Him. 
+\ip Therefore, there is no parity between the condition of those who have adhered to the Catholic truth by the heavenly gift of faith, and the condition of those who, led by human opinions, follow a false religion. For those who have received the faith under the Magisterium of the Church can never have any just cause for changing or doubting that faith. Therefore, giving thanks to God the Father, who has made us worthy to be partakers of the lot of the Saints in light, let us not neglect so great a salvation, but with our eyes fixed on Jesus, the author and the completion of our Faith, let us hold fast to the confession of our hope, without wavering. (Hebrews 12:2; 10:23). 
+\ib
+\imt2 CHAPTER IV.
+\imt1 ON FAITH AND REASON 
+\im The Catholic Church, with one consent, has also ever held and does hold that there is a two-fold order of knowledge, distinct both in principle and also in object; in principle, because our knowledge, in the one, is by natural reason, and, in the other, is by Divine faith; in object, because, besides those things to which natural reason can attain, there are proposed, for our belief, mysteries hidden in God, which, unless Divinely-revealed, cannot be known. 
+\ip Therefore, the Apostle, who testifies that God is known by the Gentiles through created things, still, when discoursing of the grace and truth which came through Jesus Christ (John 1:17), says: "We speak of the wisdom of God in a mystery, a wisdom which is hidden, which God ordained before the world unto our glory; which none of the leaders of this world knew ... but to us God has revealed them by His Spirit. For the Spirit searches all things, even the depths of God." (1 Cor. 2:7-9). And the only-begotten Son himself gives thanks to the Father, because He has hidden these things from the wise and the prudent, and has revealed them to little ones (Matt. 11:25). 
+\ip And reason, indeed, enlightened by faith -- when it seeks earnestly, piously, and somberly -- attains by a gift from God some understanding of mysteries, even a very fruitful one; partly from the analogy of those things which it naturally knows, partly from the relations which the mysteries bear to one another and to the last end of man. But reason never becomes capable of apprehending mysteries as it does those truths which constitute its proper object. For the Divine mysteries by their own nature so far transcend the created intelligence that, even when delivered by revelation and received by faith, they remain covered with the veil of faith itself, and shrouded in a certain degree of darkness, so long as we are pilgrims in this mortal life, not yet with God; "For we walk by means of faith, and not by sight." (2 Cor. 5:7). 
+\ip But although faith is above reason, there can never be any real discrepancy between faith and reason, since the same God who reveals mysteries and infuses faith has bestowed the light of reason on the human mind. And God cannot deny Himself, nor can truth ever contradict truth. The false appearance of such a contradiction is mainly due, either to the dogmas of faith not having been understood and expounded according to the mind of the Church, or to the inventions of opinion having been mistaken for the verdicts of reason. 
+\ip We define, therefore, that every assertion contrary to a truth of enlightened faith is utterly false.\f + \fr Assertion ... false: \ft From the Bull of Pope Leo X, Apostolici regiminis, read in the 8th Session of the Fifth Lateran Council, A.D. 1513. See Labbe's Councils, vol. 19, (Venice, 1732), p. 842.\f* Furthermore, the Church, which, together with the Apostolic office of teaching, has received a charge to guard the deposit of faith, derives from God the right and the duty of proscribing false science, lest any should be deceived by philosophy and empty falsehoods (Col. 2:8). Therefore, all faithful Christians are not only forbidden to defend, as legitimate conclusions of science, such opinions as are known to be contrary to the doctrines of faith, especially if they have been condemned by the Church, but are altogether bound to account them as errors which put on the fallacious appearance of truth. 
+\ip And not only can faith and reason never be opposed to one another, but they are of mutual aid one to the other. For right reason demonstrates the foundations of faith, and enlightened by its light, cultivates the science of Divine things; while faith frees and guards reason from errors, and furnishes it with manifold knowledge. Therefore, so far is the Church from opposing the cultivation of human arts and sciences, that it in many ways helps and promotes them. For the Church neither ignores nor despises the benefits of human life which result from the arts and sciences, but confesses that, as they came from God, the Lord of all science, so, if they be used rightly, they lead to God by the help of His grace. Nor does the Church forbid that each of these sciences, in its sphere, should make use of its own principles and its own methods. But, while recognizing this just liberty, it stands watchfully on guard, lest sciences, setting themselves against Divine teaching or transgressing their own limits, should invade and disturb the domain of faith. 
+\ip For the doctrine of faith, which God has revealed has not been proposed, like a philosophical invention, to be perfected by human ingenuity. Rather, it has been delivered as a Divine Deposit to the Spouse of Christ, to be faithfully kept and infallibly declared. Hence also, that meaning of the sacred dogmas is perpetually to be retained which our Holy Mother the Church has once declared. Nor is that meaning ever to be departed from, under the pretense or pretext of a deeper comprehension of them. Let then the intelligence, science, and wisdom of each and all, of individuals and of the whole Church, in all ages and at all times, increase and flourish in abundance and vigor; but simply in its own proper kind, that is to say, in one and the same doctrine, one and the same sense, one and the same judgment (Vincent of Lerins, Common. n, 28). 
+\ib
+\imt1 CANONS: 
+\imt2 I. On God, The Creator Of All Things. 
+\ili 1. If anyone shall deny One true God, Creator and Lord of things visible and invisible; let him be anathema. 
+\ili 2. If anyone shall not be ashamed to affirm that, except matter, nothing exists; let him be anathema. 
+\ili 3. If anyone shall say that the substance and essence of God and of all things is one and the same; let him be anathema. 
+\ili 4. If anyone shall say that finite things, both corporeal and spiritual, or at least spiritual, have emanated from the Divine substance; or that the Divine essence, by the manifestation and evolution of itself, becomes all things; or, lastly, that God is a universal or indefinite being, which by determining itself constitutes the universality of things, distinct according to genera, species and individuals; let him be anathema. 
+\ili 5. If anyone does not confess that the world, and all things that are contained in it, both spiritual and material, have been, in their whole substance, produced by God out of nothing; or shall say that God created, not by His will, free from all necessity, but by a necessity equal to the necessity whereby He loves Himself; or shall deny that the world was made for the glory of God; let him be anathema. 
+\imt2 II. On Revelation. 
+\ili 1. If anyone shall say that the One True God, our Creator and Lord, cannot be certainly known by the natural light of human reason through created things; let him be anathema. 
+\ili 2. If anyone shall say that it is impossible or inexpedient that man should be taught, by Divine Revelation, concerning God and the worship to be paid to Him; let him be anathema. 
+\ili 3. If anyone shall say that man cannot be raised by Divine power to a higher than natural knowledge and perfection, but can and ought, by a continuous progress, to arrive at length, of himself, to the possession of all that is true and good; let him be anathema. 
+\ili 4. If anyone shall not receive as sacred and canonical the Books of Holy Scripture, entire with all their parts, as the Holy Synod of Trent has enumerated them, or shall deny that they have been Divinely-inspired; let him be anathema. 
+\imt2 III. On Faith. 
+\ili 1. If anyone shall say that human reason is so independent that faith cannot be imposed upon it by God; let him be anathema. 
+\ili 2. If anyone shall say that Divine faith is not distinguished from natural knowledge of God and of moral truths, and therefore that it is not requisite for Divine faith that revealed truth be believed because of the authority of God Who reveals it; let him be anathema. 
+\ili 3. If anyone shall say that Divine revelation cannot be made credible by outward signs, and therefore that men ought to be moved to faith solely by the internal experience of each, or by private inspiration; let him be anathema. 
+\ili 4. If anyone shall say that miracles are impossible, and therefore that all the accounts regarding them, even those contained in Holy Scripture, are to be dismissed as fables or myths; or that miracles can never be known with certainty, and that the divine origin of Christianity cannot be proved by them; let him be anathema. 
+\ili 5. If anyone shall say that the assent of Christian faith is not a free act, but inevitably produced by the arguments of human reason; or that the grace of God is necessary solely for that living faith that works by charity; let him be anathema. 
+\ili 6. If anyone shall say that the condition of the faithful, and of those who have not yet attained to the only true faith, is on a par, so that Catholics may have just cause for doubting, with suspended assent, the faith that they have already received under the Magisterium of the Church, until they shall have obtained a scientific demonstration of the credibility and truth of their faith; let him be anathema. 
+\imt2 IV. On Faith and Reason. 
+\ili 1. If anyone shall say that, in Divine Revelation, there are no mysteries, truly and properly so-called, but that all of the doctrines of faith can be understood and demonstrated from natural principles, by properly-cultivated reason; let him be anathema. 
+\ili 2. If anyone shall say that human sciences are to be so freely treated, that their assertions, although opposed to revealed doctrine, are to be held as true, and cannot be condemned by the Church; let him be anathema. 
+\ili 3. If anyone shall assert it to be possible that sometimes, according to the progress of science, a sense is to be given to doctrines propounded by the Church different from that which the Church has understood and understands; let him be anathema. 
+\ib
+\im Therefore We, fulfilling the duty of our supreme pastoral office, entreat, by the mercies of Jesus Christ, and, by the authority of the same our God and Savior, We command, all the faithful of Christ, and especially those who are set over others or are charged with the office of instruction, that they earnestly and diligently apply themselves to ward off and eliminate these errors from the Holy Church, and to spread the light of pure faith. 
+\ip And since it is not sufficient to shun heretical depravity, unless those errors also be diligently avoided which more or less nearly approach it, We admonish all men of the further duty of observing those constitutions and decrees by which such erroneous opinions as are not here specifically enumerated, have been proscribed and condemned by this Holy See. 
+\ip Given at Rome in public Session solemnly held in the Vatican Basilica in the year of our Lord, one thousand eight hundred and seventy, on the twenty-fourth day of April, in the twenty-fourth year of our Pontificate. 
+\ib 
+\im In conformity with the original.
+\im JOSEPH, Bishop of S. Polten,
+\im Secretary of the Vatican Council. 
 \periph Preface
 \h0 Version Information
 \h1 Version Information
@@ -214,18 +250,3 @@
 \periph OT Title page
 \ib7
 \imt1 Old Testament
-\periph NT Title Page
-\ib7
-\imt1 New Testament
-\periph Gospels Title Page
-\ib7
-\imt1 The Four Gospels
-\periph Acts Title Page
-\ib7
-\imt1 The Acts of the Apostles
-\periph Epistles Title Page
-\ib7
-\imt1 The Epistles of the New Testament
-\periph The Revelation Title Page
-\ib7
-\imt1 The Apocalypse of St. John
