@@ -1,33 +1,41 @@
-\id FRT ENG (p.sfm) - Catholic FRT Template
-\rem Presentation page
-\periph Title page
-\periph Imprimatur
-\periph Approbation of the Challoner Version
-\periph Publication Data
-\periph Contents
-\periph Prayer prior to reading the Bible
-\periph List of Popes
-\periph Letter from Pope
-\periph Dogmatic Constitution
-\periph About this version
-\periph Origin, Inspiration, and History of the Bible
-\periph Old Testament Introduction
-\periph Intro to the Law
-\periph Intro to the Historical Books
-\periph Intro to the Wisdom Books
-\periph Intro to the Prophetic Books
-\periph Old Testament
-\id INT ENG (p.sfm) - Catholic Intertestament Template
-\periph New Testament Introduction
-\periph Intro to the Gospels
-\periph Intro to the Letters of Paul
-\periph Intro to the Catholic Letters
-\periph New Testament
-\id BAK ENG (p.sfm) - Catholic Back Matter Template
-\periph 3 Year Cycle of Readings
-\periph Celebration of the Eucharist
-\periph Glossary
-\periph Timeline
-\periph Encyclopedia
-\periph Bibliography
-\periph Maps
+# CPDV Garden Study Bible
+## Manifest of contents 
+### Front matter - Catholic front template
+|Material| Status | Pages|
+|Presentation page
+|Title page| WIP | 1 |
+|Imprimatur|No | 0|
+|Approbation of the Challoner Version|
+|Publication data| WIP| 1
+| Contents
+| Prayer prior to reading the Bible | Ready | 1 
+| List of popes | no|
+| Letter from Pope | No| 
+| Dogmatic constitution | WIP | 5
+| About this version | Ready | 3 
+| Origin, Inspiration, and History of the Bible |
+| Old Testament Introduction | 
+| Intro to the Law | 
+| Intro to the Historical Books | 
+| Intro to the Wisdom Books | 
+| Intro to the Prophetic Books | 
+### Scripture OT
+| Gen - 2 Macabees | 
+### Catholic Intertestament Template
+|Material| Status | Pages|
+| New Testament Introduction|
+| Intro to the Gospels|
+| Intro to the Letters of Paul| 
+| Intro to the Catholic Letters| 
+### Scripture NT
+| Mat- Rev |
+### Catholic Back Matter Template
+|Material| Status | Pages|
+| 3 Year Cycle of Readings
+| Celebration of the Eucharist
+| Glossary | WIP
+| Timeline | WIP
+| Encyclopedia | NO 
+| Bibliography | 
+| Maps | WIP 
+┌┬┐
