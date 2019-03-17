@@ -48,7 +48,8 @@ Table of Weights and Measures|||[Haydock 1852]
 Bibliography |||
 Maps | WIP ||
 
-###Unused From Haydock
+
+### Unused From Haydock
 Material| Status | Pages|Source 
 --------|--------|------|------
 Records | WIP| 4 | [Haydock]()
@@ -68,9 +69,13 @@ Reading Calendar| Incoming| 2 | [Haydock]()
 Catholic Truths (References) | Incoming| 6| [Haydock]()
 
 ### Unused from Catholic Template
-Imprimatur|No | 0|
-List of popes | no||
+Imprimatur|No | 0
+----------|---|---
+List of popes | no|
 Letter from Pope | No||
+
+
+
 ════════════
 ┌┅┄─┅┄┐
 ┇╳╳╳╳╳┇
