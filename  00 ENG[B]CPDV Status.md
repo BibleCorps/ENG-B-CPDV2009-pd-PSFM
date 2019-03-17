@@ -1,4 +1,4 @@
-### Scripture Status|||||||||||
+### Scripture Status
 Title|UID|UIN|PIN|OO|Ch|Txt|Int|Des|¶|fn|xr
 -|-|-|-|-|-|-|-|-|-|-|-
 Genesis|GEN|1|1|1|50|1|1|1|1|0.8|0.35
@@ -74,8 +74,8 @@ James|JAS|60|60|68|5|1|1|1|1|0.8|0.35
 3 John|3JN|65|65|73|1|1|1|1|1|0.8|0.35
 Jude|JUD|66|66|74|1|1|1|1|1|0.8|0.35
 Revelation|REV|67|67|75|22|1|1|1|0.6|0.8|0.35
-|||||||||||
-###ExtraBiblical Status|||||||||||
+
+###ExtraBiblical Status
 Title|UID|UIN|PIN|OO|Ch|Txt|Int|Des|¶|fn|xr
 -|-|-|-|-|-|-|-|-|-|-|-
 Front Matter|FRT|A0|0|0|10|1|0.1||||
