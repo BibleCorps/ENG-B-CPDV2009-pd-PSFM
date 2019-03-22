@@ -1,9 +1,7 @@
 # ENG-B-CPDV2009-pd-PSFM
 Catholic Public Domain Version in P.SFM format
 
-This is the development branch.  
-
-The P.SFM source is at (https://github.com/BeTheLight/ENG-B-CPDV2009-pd-PSFM.) 
+This is the source for P.SFM.  
 
 The USFM source is at (https://gitlab.com/crosswire-bible-society/cpdv)
 
