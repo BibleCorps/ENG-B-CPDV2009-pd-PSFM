@@ -38,12 +38,11 @@ Matthew- Apocalypse
 Material| Status | Pages|Source 
 --------|--------|------|------
 Topical References|WIP|4| [Challoner](https://archive.org/details/holybibletransla00chalrich/page/225)
-OT Chron Index | WIP | 6 | Gen [Challoner](https://archive.org/details/holybibletransla00chalrich/page/229) 
-||| Exo - Mac [Haydock]()
-NT Chron Index  | Incoming | || [Challoner](https://archive.org/details/holybibletransla00chalrich/page/227)
-Christian Doctrine Beliefs ||10 |[GardenOfTheSoul]()
-Christian Doctrine Actions ||5 |[GardenOfTheSoul]()
-Gospel Lessons ||2 |[GardenOfTheSoul]()
+OT Chron Index | WIP | 6 | Genesis [Challoner](https://archive.org/details/holybibletransla00chalrich/page/229) Exodus on [Haydock](https://archive.org/details/hallfamilybible1883hall/page/383). This puts patriarchs on Year of the world (creation plus) and Exodus to Revelation on a Christian Calendar. 
+NT Chron Index  | Incoming || [Challoner](https://archive.org/details/holybibletransla00chalrich/page/227)
+Christian Doctrine Beliefs |WIP |10 |[GardenOfTheSoul](https://archive.org/details/TheGardenOfTheSoul/page/n9)
+Christian Doctrine Actions |WIP |5 |[GardenOfTheSoul](https://archive.org/details/TheGardenOfTheSoul/page/n15)
+Gospel Lessons ||2 |[GardenOfTheSoul](https://archive.org/details/TheGardenOfTheSoul/page/n18)
 Celebration of the Eucharist| | | [GardenOfTheSoul](https://babel.hathitrust.org/cgi/pt?id=nyp.33433017069497;view=2up;seq=14)
 Glossary | WIP|| [Challoner PG]()
 3 Year Cycle of Readings|| 3 |
@@ -80,11 +79,11 @@ Letter from Pope | No||
 
 
 ════════════
-┌┅┄─┅┄┐
-┇╳╳╳╳╳┇
-┆╳╳╷╳╳┆
-┇╳╶┼╴╳┇
-┆╳╳│╳╳┆
-┇╳╳╵╳╳┇
-┆╳╳╳╳╳┆
-└┅┄─┅┄┘
+>┌┅┄─┅┄┐
+>┇╳╳╳╳╳┇
+>┆╳╳╷╳╳┆
+>┇╳╶┼╴╳┇
+>┆╳╳│╳╳┆
+>┇╳╳╵╳╳┇
+>┆╳╳╳╳╳┆
+>└┅┄─┅┄┘
